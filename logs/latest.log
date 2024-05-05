@@ -1,1180 +1,221 @@
-[00:03:31] [Server thread/INFO]: sans2280448 lost connection: Disconnected
-[00:03:31] [Server thread/INFO]: sans2280448 left the game
-[00:07:49] [User Authenticator #7/INFO]: UUID of player SvaTshiK is da4f970d-93b2-3619-8518-bc7ff89a7df2
-[00:07:49] [Server thread/INFO]: SvaTshiK joined the game
-[00:07:49] [Server thread/INFO]: SvaTshiK[/76.34.138.144:47578] logged in with entity id 15582 at ([world]-115.16329500121644, 201.54913854522, 668.1520425068729)
-[00:07:55] [Craft Scheduler Thread - 1028 - AuthMe/INFO]: [AuthMe] SvaTshiK logged in 76.34.138.144
-[00:09:10] [Server thread/INFO]: SvaTshiK issued server command: //wand copy
-[00:10:10] [Server thread/INFO]: SvaTshiK lost connection: Disconnected
-[00:10:10] [Server thread/INFO]: SvaTshiK left the game
-[00:12:37] [User Authenticator #8/INFO]: UUID of player SvaTshiK is da4f970d-93b2-3619-8518-bc7ff89a7df2
-[00:12:38] [Server thread/INFO]: SvaTshiK joined the game
-[00:12:38] [Server thread/INFO]: SvaTshiK[/76.34.138.144:47621] logged in with entity id 15684 at ([world]-103.03494995507997, 201.0, 651.5071991865755)
-[00:12:45] [Craft Scheduler Thread - 1033 - AuthMe/INFO]: [AuthMe] SvaTshiK logged in 76.34.138.144
-[00:12:53] [Server thread/INFO]: SvaTshiK issued server command: //wand -n
-[00:13:03] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[00:13:03] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[00:13:09] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[00:13:09] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[00:13:22] [Server thread/INFO]: SvaTshiK issued server command: //copy
-[00:13:22] [AsyncNotifyKeyedQueue - 2/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightStarlightRelighterFactory as relighter factory.
-[00:16:52] [Server thread/INFO]: SvaTshiK issued server command: /kill
-[00:16:52] [Server thread/INFO]: SvaTshiK was killed
-[00:16:52] [Server thread/INFO]: [SvaTshiK: Killed SvaTshiK]
-[00:17:11] [Server thread/INFO]: SvaTshiK issued server command: //copy
-[00:17:23] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:17:43] [Server thread/INFO]: SvaTshiK issued server command: //clearclip
-[00:18:11] [Server thread/INFO]: SvaTshiK issued server command: //copy
-[00:18:25] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:18:36] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:18:58] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:19:34] [Server thread/INFO]: SvaTshiK issued server command: //copy
-[00:19:50] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:20:12] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[00:20:12] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[00:20:30] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[00:20:30] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[00:36:49] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:37:21] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:37:38] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:37:47] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:38:14] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:38:16] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:38:30] [Server thread/INFO]: SvaTshiK issued server command: /gamemode
-[00:38:37] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD
-[00:38:37] [Server thread/INFO]: [SvaTshiK: Teleported SvaTshiK to s1mpleCSGOD]
-[00:39:37] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[00:39:37] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[00:39:37] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[00:39:45] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[00:39:45] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[00:39:46] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[00:39:46] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[00:39:46] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[00:39:46] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[00:39:51] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[00:39:51] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[00:39:51] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[00:39:51] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--00-39.zip"
-[00:39:51] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[00:39:57] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.84 seconds (16001.57KB/s)
-[00:39:57] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--00-39.zip" complete
-[00:39:57] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--00-39.zip"
-[00:39:57] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[00:40:00] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.31 seconds (3111.06KB/s)
-[00:40:00] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--00-39.zip" complete
-[00:40:00] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--00-39.zip"
-[00:40:00] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[00:40:03] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.1 seconds (761.83KB/s)
-[00:40:03] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--00-39.zip" complete
-[00:40:03] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--00-39.zip"
-[00:40:03] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.67 seconds (11826.66KB/s)
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--00-39.zip" complete
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--00-39.zip"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--00-39.zip"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--00-39.zip"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--00-39.zip"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[00:40:08] [Craft Scheduler Thread - 1184 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[00:40:47] [Server thread/INFO]: SvaTshiK issued server command: //copy
-[00:40:54] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:41:03] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:41:10] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:41:22] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:41:29] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:41:32] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:41:36] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:41:44] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:41:55] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:42:07] [Server thread/INFO]: SvaTshiK issued server command: //paste
-[00:42:14] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:42:15] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[00:56:31] [Server thread/INFO]: s1mpleCSGOD lost connection: Disconnected
-[00:56:31] [Server thread/INFO]: s1mpleCSGOD left the game
-[01:11:23] [Server thread/INFO]: SvaTshiK issued server command: //set blu
-[01:11:33] [Server thread/INFO]: SvaTshiK issued server command: //set black_glazed_terracotta
-[01:12:27] [Server thread/INFO]: SvaTshiK issued server command: //set black_stained_glass
-[01:12:39] [Server thread/INFO]: SvaTshiK issued server command: //set black_stained_glass
-[01:13:16] [Server thread/INFO]: SvaTshiK issued server command: //set light_black_stained_glass
-[01:13:50] [Server thread/INFO]: SvaTshiK issued server command: //set light_blue_stained_glass
-[01:14:07] [Server thread/INFO]: SvaTshiK issued server command: //set light_blue_stained_glass
-[01:14:12] [Server thread/INFO]: SvaTshiK issued server command: //set light_blue_stained_glass
-[01:14:28] [Server thread/INFO]: SvaTshiK issued server command: //set black_stained_glass50%,light_blue_stained_glass50%
-[01:14:50] [Server thread/INFO]: SvaTshiK issued server command: //set 50%black_stained_glass,50%light_blue_stained_glass
-[01:15:09] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass
-[01:15:16] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass
-[01:15:40] [Server thread/INFO]: SvaTshiK issued server command: //set cyan_stained_glass
-[01:16:00] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:16:37] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:16:52] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:17:25] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:18:13] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:18:21] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[01:19:39] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:19:52] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:19:52] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:19:57] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[01:20:09] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:20:09] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:24:15] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:24:29] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:24:48] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:25:09] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:25:20] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:25:20] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:25:30] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:25:30] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:26:39] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:27:02] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:27:15] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:27:29] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:27:58] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:28:22] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:29:21] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:29:30] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:29:38] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:29:47] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:29:59] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:30:38] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:31:03] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:31:18] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:31:55] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:32:24] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:32:31] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:32:31] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:32:41] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:32:41] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:33:15] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:33:18] [Server thread/INFO]: SvaTshiK issued server command: //set 50%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:34:07] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:34:29] [User Authenticator #9/INFO]: UUID of player s1mpleCSGOD is b40a35f0-4f75-3279-ac17-ccc0f3541726
-[01:34:30] [Server thread/INFO]: s1mpleCSGOD joined the game
-[01:34:30] [Server thread/INFO]: s1mpleCSGOD[/24.208.226.40:53948] logged in with entity id 16416 at ([world]-128.08127799329523, 201.0, 661.013172455012)
-[01:34:44] [Craft Scheduler Thread - 1473 - AuthMe/INFO]: [AuthMe] s1mpleCSGOD logged in 24.208.226.40
-[01:35:30] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:35:45] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:35:59] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:36:13] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:36:20] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:36:30] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:36:50] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:37:03] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:37:17] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:37:47] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:38:00] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:38:08] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:38:15] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:38:22] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:38:32] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:38:52] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:39:03] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:39:03] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:39:11] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[01:39:19] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:39:19] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:39:35] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:39:37] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[01:39:37] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[01:39:37] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[01:39:44] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[01:39:44] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[01:39:45] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[01:39:45] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[01:39:45] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[01:39:45] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[01:39:50] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[01:39:50] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[01:39:50] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[01:39:50] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--01-39.zip"
-[01:39:50] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[01:39:56] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.49 seconds (17049.12KB/s)
-[01:39:56] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--01-39.zip" complete
-[01:39:56] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--01-39.zip"
-[01:39:56] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[01:39:58] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.83 seconds (3642.26KB/s)
-[01:39:58] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--01-39.zip" complete
-[01:39:58] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--01-39.zip"
-[01:39:58] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[01:40:01] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.77 seconds (853.51KB/s)
-[01:40:01] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--01-39.zip" complete
-[01:40:01] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--01-39.zip"
-[01:40:01] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[01:40:04] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.87 seconds (11355.52KB/s)
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--01-39.zip" complete
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--01-39.zip"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--01-39.zip"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--01-39.zip"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--01-39.zip"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[01:40:06] [Craft Scheduler Thread - 1485 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[01:40:14] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:40:25] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:40:32] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:40:38] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:40:49] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:40:57] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:41:04] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:41:11] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:41:29] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:41:39] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:41:50] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:42:06] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:42:14] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:42:20] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:42:30] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:42:36] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:43:08] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:43:33] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:43:50] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:43:56] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:43:56] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:44:04] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:44:04] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:44:35] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode
-[01:44:35] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:44:37] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:44:41] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:44:45] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:44:45] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:44:48] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode
-[01:44:51] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:44:51] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:45:01] [Server thread/INFO]: s1mpleCSGOD issued server command: /GAM
-[01:45:21] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode adventure
-[01:45:21] [Server thread/INFO]: [s1mpleCSGOD: Set own game mode to Adventure Mode]
-[01:45:34] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:45:41] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:46:06] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:46:10] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode
-[01:46:16] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:46:16] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:46:23] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:46:23] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:46:23] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode spectator
-[01:46:23] [Server thread/INFO]: [s1mpleCSGOD: Set own game mode to Spectator Mode]
-[01:46:32] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:46:35] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:46:43] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:46:51] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:46:56] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode creative
-[01:46:56] [Server thread/INFO]: [s1mpleCSGOD: Set own game mode to Creative Mode]
-[01:46:58] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:47:06] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:47:45] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:48:17] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:48:23] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:48:23] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:48:29] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:48:29] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:49:20] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:49:43] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:49:50] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:49:56] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:50:03] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:50:16] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:50:24] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:50:33] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:50:44] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:50:58] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:51:06] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:51:17] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:51:26] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:52:26] [Server thread/INFO]: SvaTshiK issued server command: //set 70%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:52:43] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:52:56] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:53:09] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:53:16] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:53:22] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:53:32] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:54:44] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:54:48] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:54:48] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:55:07] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:55:07] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:55:37] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:55:41] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[01:55:41] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[01:55:55] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[01:55:55] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[01:56:11] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:56:26] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:56:49] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:59:03] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:59:13] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:59:24] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:59:35] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:59:47] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[01:59:59] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:00:09] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:00:21] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:00:32] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:00:44] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:01:01] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:01:12] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:01:23] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:01:33] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:01:47] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:01:56] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:02:12] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:02:32] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:02:57] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:03:14] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:03:35] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:04:06] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:04:06] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:04:12] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:04:12] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:05:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:05:59] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:05:59] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:06:07] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:06:07] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:06:27] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:06:46] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:08:07] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:08:22] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:08:28] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:08:28] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:08:35] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:08:35] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:08:49] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:08:55] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:08:55] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:09:01] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:09:06] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:09:06] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:09:28] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:09:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:09:59] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:11:26] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:11:54] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:12:05] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:12:19] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:12:47] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:13:01] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:13:52] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD SvaTshiK
-[02:13:52] [Server thread/INFO]: [SvaTshiK: Teleported s1mpleCSGOD to SvaTshiK]
-[02:14:00] [Async Chat Thread - #1/INFO]: [Not Secure] <SvaTshiK> .//wand
-[02:14:08] [Server thread/INFO]: s1mpleCSGOD issued server command: //wand
-[02:15:57] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:16:57] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD
-[02:16:57] [Server thread/INFO]: [SvaTshiK: Teleported SvaTshiK to s1mpleCSGOD]
-[02:19:09] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:19:29] [Async Chat Thread - #2/INFO]: [Not Secure] <SvaTshiK> .//undo
-[02:19:53] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:20:09] [Server thread/INFO]: s1mpleCSGOD issued server command: //undo
-[02:21:06] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:21:17] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:21:39] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:21:48] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[02:21:56] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD
-[02:21:56] [Server thread/INFO]: [SvaTshiK: Teleported SvaTshiK to s1mpleCSGOD]
-[02:21:57] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:22:17] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD
-[02:22:17] [Server thread/INFO]: [SvaTshiK: Teleported SvaTshiK to s1mpleCSGOD]
-[02:22:37] [Server thread/INFO]: s1mpleCSGOD issued server command: //undo
-[02:22:59] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:22:59] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:22:59] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:23:16] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD SvaTshiK
-[02:23:16] [Server thread/INFO]: [SvaTshiK: Teleported s1mpleCSGOD to SvaTshiK]
-[02:23:27] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:23:27] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:23:38] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:24:02] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:24:41] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:25:16] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:25:27] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:25:37] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:25:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:26:00] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:26:09] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:26:17] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:26:25] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:26:42] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:27:27] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:27:38] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:27:51] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:28:14] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:28:23] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:28:40] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:28:51] [Server thread/INFO]: s1mpleCSGOD issued server command: //undo
-[02:29:22] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:29:28] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:29:35] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:29:42] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:29:48] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:29:58] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:14] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:22] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:30] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:35] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:39] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:41] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:47] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:30:54] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:31:03] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:32:04] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:33:09] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:34:25] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:34:38] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:34:49] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:34:57] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:35:07] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass//set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:35:09] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:35:31] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:35:55] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:36:00] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:36:00] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:36:04] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:36:04] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:36:13] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:36:32] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:36:32] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:36:35] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:36:35] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:37:47] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:38:07] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:38:29] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:38:35] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:38:48] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:39:10] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:39:14] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:39:14] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:39:14] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:39:18] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:39:18] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:39:37] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[02:39:37] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[02:39:37] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[02:39:44] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:39:44] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[02:39:44] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[02:39:45] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[02:39:45] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[02:39:46] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[02:39:46] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[02:39:47] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:39:47] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:39:50] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[02:39:50] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[02:39:50] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[02:39:51] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--02-39.zip"
-[02:39:51] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[02:39:57] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 6.48 seconds (14454.38KB/s)
-[02:39:57] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--02-39.zip" complete
-[02:39:57] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--02-39.zip"
-[02:39:57] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[02:40:00] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.86 seconds (3596.42KB/s)
-[02:40:00] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--02-39.zip" complete
-[02:40:00] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--02-39.zip"
-[02:40:00] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[02:40:03] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.78 seconds (849.21KB/s)
-[02:40:03] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--02-39.zip" complete
-[02:40:03] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--02-39.zip"
-[02:40:03] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.19 seconds (10680.58KB/s)
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--02-39.zip" complete
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--02-39.zip"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--02-39.zip"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--02-39.zip"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--02-39.zip"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[02:40:08] [Craft Scheduler Thread - 1744 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[02:40:19] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:40:28] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:40:28] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:40:46] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:40:52] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:40:52] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:40:55] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:40:55] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:40:57] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:41:02] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:41:06] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:41:10] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:41:10] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:41:16] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:41:32] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:41:50] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:41:50] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:42:01] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:42:14] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:42:18] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:42:25] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:42:30] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:42:34] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:42:34] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:42:35] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:42:47] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:42:56] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:43:19] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:44:12] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:44:23] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:44:50] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:45:06] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:45:14] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:45:19] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:45:29] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:45:42] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:45:55] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:46:36] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:47:45] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:48:05] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:48:27] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:48:36] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:49:37] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:49:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:50:59] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:51:25] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:51:37] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:52:18] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:52:34] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:52:46] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:52:59] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD SvaTshiK
-[02:52:59] [Server thread/INFO]: [SvaTshiK: Teleported s1mpleCSGOD to SvaTshiK]
-[02:53:23] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD SvaTshiK
-[02:53:23] [Server thread/INFO]: [SvaTshiK: Teleported s1mpleCSGOD to SvaTshiK]
-[02:53:25] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:53:43] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:54:33] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:55:11] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:55:16] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:56:22] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:56:28] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:56:34] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:56:34] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:56:41] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:56:43] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:56:43] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:57:06] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:57:08] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:57:08] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:57:10] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:57:10] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[02:57:31] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:57:44] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:57:47] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:58:44] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:58:57] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[02:59:01] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[02:59:01] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[02:59:08] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[02:59:08] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[03:00:04] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:00:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:00:55] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:01:05] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:01:19] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:01:30] [Server thread/INFO]: SvaTshiK issued server command: /tp s1mpleCSGOD SvaTshiK
-[03:01:30] [Server thread/INFO]: [SvaTshiK: Teleported s1mpleCSGOD to SvaTshiK]
-[03:01:51] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:01:56] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[03:01:56] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[03:02:01] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[03:02:01] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[03:02:06] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[03:02:06] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[03:02:10] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[03:02:10] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[03:02:21] [Server thread/INFO]: s1mpleCSGOD issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:03:11] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[03:03:11] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[03:03:21] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[03:03:22] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[03:03:22] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[03:03:31] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[03:03:31] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[03:03:34] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[03:03:34] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[03:03:37] [Server thread/INFO]: s1mpleCSGOD issued server command: //gamemode spectator
-[03:03:49] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:03:55] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode spectator
-[03:03:55] [Server thread/INFO]: [s1mpleCSGOD: Set own game mode to Spectator Mode]
-[03:05:03] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[03:05:08] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[03:05:08] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[03:05:15] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[03:05:15] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[03:07:00] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode
-[03:07:07] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode creative
-[03:07:07] [Server thread/INFO]: [s1mpleCSGOD: Set own game mode to Creative Mode]
-[03:08:20] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode spectator
-[03:08:20] [Server thread/INFO]: [s1mpleCSGOD: Set own game mode to Spectator Mode]
-[03:10:00] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[03:10:00] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[03:10:14] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[03:10:14] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[03:11:12] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode creative
-[03:11:12] [Server thread/INFO]: [s1mpleCSGOD: Set own game mode to Creative Mode]
-[03:11:26] [Server thread/INFO]: SvaTshiK lost connection: Disconnected
-[03:11:26] [Server thread/INFO]: SvaTshiK left the game
-[03:17:15] [Server thread/INFO]: s1mpleCSGOD issued server command: //KILL
-[03:17:20] [Server thread/INFO]: s1mpleCSGOD issued server command: //kill
-[03:17:23] [Server thread/INFO]: s1mpleCSGOD issued server command: /kill
-[03:17:23] [Server thread/INFO]: s1mpleCSGOD was killed
-[03:17:23] [Server thread/INFO]: [s1mpleCSGOD: Killed s1mpleCSGOD]
-[03:18:22] [Server thread/INFO]: s1mpleCSGOD lost connection: Disconnected
-[03:18:23] [Server thread/INFO]: s1mpleCSGOD left the game
-[03:39:37] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[03:39:37] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[03:39:37] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[03:39:46] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[03:39:46] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[03:39:47] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[03:39:47] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[03:39:47] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[03:39:47] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[03:39:52] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[03:39:52] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[03:39:52] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[03:39:53] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--03-39.zip"
-[03:39:53] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[03:39:59] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 6.9 seconds (13569.16KB/s)
-[03:39:59] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--03-39.zip" complete
-[03:39:59] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--03-39.zip"
-[03:39:59] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[03:40:02] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.93 seconds (3513.76KB/s)
-[03:40:02] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--03-39.zip" complete
-[03:40:02] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--03-39.zip"
-[03:40:02] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[03:40:05] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 3.03 seconds (778.66KB/s)
-[03:40:05] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--03-39.zip" complete
-[03:40:05] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--03-39.zip"
-[03:40:05] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.53 seconds (12240.21KB/s)
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--03-39.zip" complete
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Disabling automatic backups due to inactivity
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--03-39.zip"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--03-39.zip"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--03-39.zip"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--03-39.zip"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[03:40:10] [Craft Scheduler Thread - 2061 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[12:39:15] [User Authenticator #10/INFO]: UUID of player SvaTshiK is da4f970d-93b2-3619-8518-bc7ff89a7df2
-[12:39:16] [Server thread/INFO]: [DriveBackupV2] Enabling automatic backups
-[12:39:16] [Server thread/INFO]: SvaTshiK joined the game
-[12:39:16] [Server thread/INFO]: SvaTshiK[/76.34.138.144:48546] logged in with entity id 17987 at ([world]-107.8129878500332, 203.3759715353783, 634.9067994086552)
-[12:39:28] [Craft Scheduler Thread - 5295 - AuthMe/INFO]: [AuthMe] SvaTshiK logged in 76.34.138.144
-[12:39:37] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[12:39:37] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[12:39:37] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[12:39:44] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[12:39:44] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[12:39:45] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[12:39:45] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[12:39:45] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[12:39:45] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[12:39:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:39:49] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[12:39:49] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[12:39:49] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[12:39:50] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--12-39.zip"
-[12:39:50] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[12:39:55] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.37 seconds (17427.35KB/s)
-[12:39:55] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--12-39.zip" complete
-[12:39:55] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--12-39.zip"
-[12:39:55] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[12:39:58] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.95 seconds (3482.83KB/s)
-[12:39:58] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--12-39.zip" complete
-[12:39:58] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--12-39.zip"
-[12:39:58] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[12:40:00] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.42 seconds (975.89KB/s)
-[12:40:00] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--12-39.zip" complete
-[12:40:00] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--12-39.zip"
-[12:40:00] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.65 seconds (11914.05KB/s)
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--12-39.zip" complete
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--12-39.zip"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--12-39.zip"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--12-39.zip"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--12-39.zip"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[12:40:05] [Craft Scheduler Thread - 5297 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[12:40:11] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:42:08] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:42:56] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:44:24] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:48:04] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:48:20] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:48:27] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:48:37] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:49:32] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:49:38] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:49:43] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:49:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:49:58] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:50:11] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:50:21] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:50:31] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:50:35] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:50:40] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:51:37] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[12:51:37] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[12:52:01] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[12:52:01] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[12:52:11] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:52:20] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:52:36] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:52:58] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,50%light_blue_stained_glass,50%cyan_stained_glass
-[12:53:43] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:53:56] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:54:11] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:54:45] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:54:56] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:55:07] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:55:14] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:55:28] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:55:44] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:55:56] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:56:20] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:56:25] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:56:38] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:56:48] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:57:26] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:57:51] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:58:09] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:58:39] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:58:49] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[12:58:54] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:00:04] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:00:21] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:00:38] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:01:23] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:01:38] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:02:00] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:02:26] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:03:06] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:03:37] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:04:06] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:04:12] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:04:27] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:04:27] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[13:05:23] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[13:05:23] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[13:06:13] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:06:13] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[13:06:29] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[13:06:29] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[13:06:38] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:06:41] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:06:41] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[13:07:08] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[13:07:08] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[13:07:19] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:07:21] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:07:21] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[13:07:30] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[13:07:30] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[13:07:53] [Server thread/INFO]: SvaTshiK issued server command: //set 80%blue_stained_glass,40%light_blue_stained_glass,40%cyan_stained_glass
-[13:07:55] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:07:55] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[13:09:27] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[13:09:27] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[13:09:38] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:09:38] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[13:10:19] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:10:21] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[13:10:21] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[13:10:50] [Async Chat Thread - #4/INFO]: [Not Secure] <SvaTshiK> 13
-[13:18:43] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[13:18:43] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[13:39:37] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[13:39:37] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[13:39:37] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[13:39:44] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[13:39:44] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[13:39:45] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[13:39:45] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[13:39:45] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[13:39:45] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[13:39:49] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[13:39:49] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[13:39:49] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[13:39:50] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--13-39.zip"
-[13:39:50] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[13:39:56] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.72 seconds (16379.1KB/s)
-[13:39:56] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--13-39.zip" complete
-[13:39:56] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--13-39.zip"
-[13:39:56] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[13:39:58] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.89 seconds (3556.65KB/s)
-[13:39:58] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--13-39.zip" complete
-[13:39:58] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--13-39.zip"
-[13:39:58] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[13:40:01] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.92 seconds (809.9KB/s)
-[13:40:01] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--13-39.zip" complete
-[13:40:01] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--13-39.zip"
-[13:40:01] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.48 seconds (12380.12KB/s)
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--13-39.zip" complete
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--13-39.zip"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--13-39.zip"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--13-39.zip"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--13-39.zip"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[13:40:06] [Craft Scheduler Thread - 5616 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[13:57:17] [Server thread/INFO]: SvaTshiK lost connection: Disconnected
-[13:57:17] [Server thread/INFO]: SvaTshiK left the game
-[14:02:33] [User Authenticator #11/INFO]: UUID of player SvaTshiK is da4f970d-93b2-3619-8518-bc7ff89a7df2
-[14:02:33] [Server thread/INFO]: SvaTshiK joined the game
-[14:02:33] [Server thread/INFO]: SvaTshiK[/76.34.138.144:46546] logged in with entity id 18160 at ([world]-107.49657353727721, 267.58556429243845, 658.5684960631605)
-[14:02:38] [Server thread/WARN]: SvaTshiK moved too quickly! 0.0,-11.828158680186334,0.0
-[14:02:45] [Craft Scheduler Thread - 5753 - AuthMe/INFO]: [AuthMe] SvaTshiK logged in 76.34.138.144
-[14:02:48] [Server thread/INFO]: SvaTshiK fell out of the world
-[14:03:13] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[14:03:13] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[14:04:27] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[14:04:27] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[14:04:37] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[14:04:37] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[14:04:46] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[14:08:21] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[14:08:53] [Server thread/INFO]: SvaTshiK issued server command: //confirm to execute /set 0
-[14:08:56] [Server thread/INFO]: SvaTshiK issued server command: //confirm to execute
-[14:08:59] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[14:09:06] [Server thread/INFO]: SvaTshiK issued server command: /set 0
-[14:09:23] [Server thread/INFO]: SvaTshiK issued server command: //confirm to execute
-[14:09:44] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[14:09:46] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[14:10:13] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[14:10:38] [Server thread/INFO]: Villager EntityVillager['Villager'/18523, uuid='020a4abd-378c-4bad-afcd-460879c937bc', l='ServerLevel[world]', x=-418.63, y=-270.50, z=932.64, cpos=[-27, 58], tl=1006, v=true] died, message: 'Villager fell out of the world'
-[14:10:39] [Server thread/INFO]: Villager EntityVillager['Villager'/18526, uuid='1ad18391-ee06-4279-b578-1557567e5875', l='ServerLevel[world]', x=-420.50, y=-270.50, z=921.69, cpos=[-27, 57], tl=999, v=true] died, message: 'Villager fell out of the world'
-[14:10:41] [Server thread/INFO]: Villager EntityVillager['Villager'/17017, uuid='577f4d29-183f-446f-94e5-7a52b17ed8b0', l='ServerLevel[world]', x=-397.38, y=-269.14, z=859.65, cpos=[-25, 53], tl=1170, v=true] died, message: 'Villager fell out of the world'
-[14:10:44] [Server thread/INFO]: Villager EntityVillager['Villager'/18543, uuid='250c4ffa-a286-4436-90f0-494ed601f501', l='ServerLevel[world]', x=-434.64, y=-271.14, z=908.37, cpos=[-28, 56], tl=965, v=true] died, message: 'Villager fell out of the world'
-[14:10:44] [Server thread/INFO]: Villager EntityVillager['Villager'/18544, uuid='d5cced85-0819-46d5-a4af-b481a6296efd', l='ServerLevel[world]', x=-442.36, y=-271.14, z=910.63, cpos=[-28, 56], tl=965, v=true] died, message: 'Villager fell out of the world'
-[14:10:45] [Server thread/INFO]: Villager EntityVillager['Villager'/18545, uuid='9fa45647-7a58-4266-8997-98c86bac83fb', l='ServerLevel[world]', x=-444.50, y=-270.18, z=926.81, cpos=[-28, 57], tl=943, v=true] died, message: 'Villager fell out of the world'
-[14:10:45] [Server thread/INFO]: Villager EntityVillager['Villager'/18546, uuid='caf3db84-70bd-414b-88b6-7e3ce2095523', l='ServerLevel[world]', x=-446.65, y=-270.50, z=926.62, cpos=[-28, 57], tl=943, v=true] died, message: 'Villager fell out of the world'
-[14:10:46] [Server thread/INFO]: Villager EntityVillager['Villager'/18534, uuid='049dcd72-89ab-49e9-9bba-960eb1068d71', l='ServerLevel[world]', x=-444.69, y=-270.50, z=934.50, cpos=[-28, 58], tl=974, v=true] died, message: 'Villager fell out of the world'
-[14:10:51] [Server thread/INFO]: Villager EntityVillager['Nitwit'/18599, uuid='d935fe5a-d74b-4b18-8298-ccf2087fb7f2', l='ServerLevel[world]', x=-465.72, y=-268.71, z=919.37, cpos=[-30, 57], tl=133, v=true] died, message: 'Nitwit fell out of the world'
-[14:10:51] [Server thread/INFO]: Villager EntityVillager['Villager'/18585, uuid='2423a9cf-8c57-434b-bed6-c61c96fb0b2f', l='ServerLevel[world]', x=-464.59, y=-269.71, z=920.48, cpos=[-30, 57], tl=217, v=true] died, message: 'Villager fell out of the world'
-[14:10:53] [Server thread/INFO]: Villager EntityVillager['Villager'/18547, uuid='b385f540-334d-43fa-94b7-351f3b63cc69', l='ServerLevel[world]', x=-443.37, y=-270.50, z=945.36, cpos=[-28, 59], tl=951, v=true] died, message: 'Villager fell out of the world'
-[14:10:53] [Server thread/INFO]: Villager EntityVillager['Nitwit'/18535, uuid='fd187550-3de7-49a0-803a-d186e7786c02', l='ServerLevel[world]', x=-433.50, y=-270.50, z=950.31, cpos=[-28, 59], tl=955, v=true] died, message: 'Nitwit fell out of the world'
-[14:10:53] [Server thread/INFO]: SvaTshiK issued server command: /kill
-[14:10:53] [Server thread/INFO]: SvaTshiK was killed
-[14:10:53] [Server thread/INFO]: [SvaTshiK: Killed SvaTshiK]
-[14:10:54] [Server thread/INFO]: Villager EntityVillager['Villager'/18550, uuid='0c4ebbda-f340-4874-a711-108143c5baa4', l='ServerLevel[world]', x=-434.50, y=-270.50, z=960.69, cpos=[-28, 60], tl=929, v=true] died, message: 'Villager fell out of the world'
-[14:13:22] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[14:15:06] [Server thread/INFO]: SvaTshiK issued server command: /kill
-[14:15:06] [Server thread/INFO]: SvaTshiK was killed
-[14:15:06] [Server thread/INFO]: [SvaTshiK: Killed SvaTshiK]
-[14:16:19] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[14:16:28] [Server thread/INFO]: SvaTshiK issued server command: //undo 1
-[14:16:35] [Server thread/INFO]: SvaTshiK issued server command: //undo 2
-[14:22:04] [Server thread/INFO]: SvaTshiK lost connection: Disconnected
-[14:22:05] [Server thread/INFO]: SvaTshiK left the game
-[14:39:37] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[14:39:37] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[14:39:37] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[14:39:45] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[14:39:45] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[14:39:46] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[14:39:46] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[14:39:46] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[14:39:46] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[14:39:51] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[14:39:51] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[14:39:51] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[14:39:51] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--14-39.zip"
-[14:39:51] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[14:39:57] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 5.84 seconds (18054.06KB/s)
-[14:39:57] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--14-39.zip" complete
-[14:39:57] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--14-39.zip"
-[14:39:57] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[14:40:00] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.64 seconds (3894.53KB/s)
-[14:40:00] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--14-39.zip" complete
-[14:40:00] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--14-39.zip"
-[14:40:00] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[14:40:02] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.48 seconds (950.75KB/s)
-[14:40:02] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--14-39.zip" complete
-[14:40:02] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--14-39.zip"
-[14:40:02] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.11 seconds (13534.9KB/s)
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--14-39.zip" complete
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[14:40:06] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Disabling automatic backups due to inactivity
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--14-39.zip"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--14-39.zip"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--14-39.zip"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--14-39.zip"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[14:40:07] [Craft Scheduler Thread - 5966 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[16:36:37] [User Authenticator #12/INFO]: UUID of player SvaTshiK is da4f970d-93b2-3619-8518-bc7ff89a7df2
-[16:36:37] [Server thread/INFO]: [DriveBackupV2] Enabling automatic backups
-[16:36:37] [Server thread/INFO]: SvaTshiK joined the game
-[16:36:37] [Server thread/INFO]: SvaTshiK[/76.34.138.144:48067] logged in with entity id 23095 at ([world]-178.30721330509087, 114.30521370851166, 355.9253912341696)
-[16:36:48] [Craft Scheduler Thread - 6666 - AuthMe/INFO]: [AuthMe] SvaTshiK logged in 76.34.138.144
-[16:37:20] [User Authenticator #12/INFO]: UUID of player thle_ is 2b674d57-875c-3bc7-9f68-6d053dadf437
-[16:37:20] [Server thread/INFO]: thle_ joined the game
-[16:37:20] [Server thread/INFO]: thle_[/185.204.70.250:15394] logged in with entity id 23184 at ([world]-107.5, 283.0, 665.5)
-[16:37:26] [Server thread/INFO]: SvaTshiK issued server command: /kill
-[16:37:26] [Server thread/INFO]: SvaTshiK was killed
-[16:37:26] [Server thread/INFO]: [SvaTshiK: Killed SvaTshiK]
-[16:37:34] [Server thread/INFO]: SvaTshiK issued server command: /tp thle_
-[16:37:34] [Server thread/INFO]: [SvaTshiK: Teleported SvaTshiK to thle_]
-[16:37:50] [Server thread/INFO]: thle_ lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
-[16:37:50] [Server thread/INFO]: thle_ left the game
-[16:37:53] [User Authenticator #12/INFO]: UUID of player thle_ is 2b674d57-875c-3bc7-9f68-6d053dadf437
-[16:37:53] [Server thread/INFO]: thle_ joined the game
-[16:37:53] [Server thread/INFO]: thle_[/185.204.70.250:16852] logged in with entity id 23185 at ([world]-107.4244089297381, 283.0, 665.661974605597)
-[16:38:12] [Server thread/INFO]: [AuthMe] thle_ registered 185.204.70.250
-[16:38:12] [Craft Scheduler Thread - 6674 - AuthMe/INFO]: [AuthMe] thle_ logged in 185.204.70.250
-[16:38:36] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative thle_
-[16:38:36] [Server thread/INFO]: [SvaTshiK: Set thle_'s game mode to Creative Mode]
-[16:39:37] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[16:39:37] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[16:39:37] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[16:39:44] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[16:39:44] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[16:39:45] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[16:39:45] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[16:39:46] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[16:39:46] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[16:39:50] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[16:39:50] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[16:39:50] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[16:39:51] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--16-39.zip"
-[16:39:51] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[16:39:57] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 6.15 seconds (17148.53KB/s)
-[16:39:57] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--16-39.zip" complete
-[16:39:57] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--16-39.zip"
-[16:39:57] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[16:40:00] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.9 seconds (3543.18KB/s)
-[16:40:00] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--16-39.zip" complete
-[16:40:00] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--16-39.zip"
-[16:40:00] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[16:40:03] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.75 seconds (860.04KB/s)
-[16:40:03] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--16-39.zip" complete
-[16:40:03] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--16-39.zip"
-[16:40:03] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.3 seconds (12943.48KB/s)
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--16-39.zip" complete
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--16-39.zip"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--16-39.zip"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--16-39.zip"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--16-39.zip"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[16:40:07] [Craft Scheduler Thread - 6682 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
-[16:43:14] [Server thread/INFO]: thle_ lost connection: Disconnected
-[16:43:14] [Server thread/INFO]: thle_ left the game
-[16:44:19] [User Authenticator #13/INFO]: UUID of player thle_ is 2b674d57-875c-3bc7-9f68-6d053dadf437
-[16:44:19] [Server thread/INFO]: thle_ joined the game
-[16:44:19] [Server thread/INFO]: thle_[/185.204.70.250:2597] logged in with entity id 23187 at ([world]-105.79705377659465, 201.508665416265, 643.7677779892149)
-[16:44:43] [Craft Scheduler Thread - 6711 - AuthMe/INFO]: [AuthMe] thle_ logged in 185.204.70.250
-[16:49:28] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[16:49:37] [Server thread/INFO]: SvaTshiK issued server command: //set 1
-[16:49:42] [Server thread/INFO]: SvaTshiK issued server command: //undo
-[16:49:45] [Server thread/INFO]: SvaTshiK issued server command: //undo 2
-[16:50:04] [Server thread/INFO]: SvaTshiK issued server command: //set 0
-[16:50:06] [Server thread/INFO]: SvaTshiK issued server command: //undo 2
-[16:58:18] [Server thread/INFO]: SvaTshiK issued server command: /op thle_
-[16:58:18] [Server thread/INFO]: [SvaTshiK: Made thle_ a server operator]
-[16:58:21] [Server thread/INFO]: thle_ issued server command: /gamemode spectator
-[16:58:21] [Server thread/INFO]: [thle_: Set own game mode to Spectator Mode]
-[16:58:31] [Server thread/INFO]: SvaTshiK issued server command: /gamemode spectator
-[16:58:31] [Server thread/INFO]: [SvaTshiK: Set own game mode to Spectator Mode]
-[16:58:41] [Server thread/INFO]: thle_ issued server command: /gamemode creative
-[16:58:41] [Server thread/INFO]: [thle_: Set own game mode to Creative Mode]
-[16:58:51] [Server thread/INFO]: SvaTshiK issued server command: /gamemode creative
-[16:58:51] [Server thread/INFO]: [SvaTshiK: Set own game mode to Creative Mode]
-[17:20:14] [Server thread/INFO]: thle_ lost connection: Disconnected
-[17:20:14] [Server thread/INFO]: thle_ left the game
-[17:20:19] [Server thread/INFO]: SvaTshiK lost connection: Disconnected
-[17:20:19] [Server thread/INFO]: SvaTshiK left the game
-[17:39:37] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Creating backups, the server may lag for a little while...
-[17:39:37] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup(s) and compressing...
-[17:39:37] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world"
-[17:39:45] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world" created
-[17:39:45] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_nether"
-[17:39:46] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_nether" created
-[17:39:46] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for ".\world_the_end"
-[17:39:46] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for ".\world_the_end" created
-[17:39:46] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Creating local backup for "plugins"
-[17:39:51] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup for "plugins" created
-[17:39:51] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup(s) created and compressed
-[17:39:51] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading backup(s)...
-[17:39:51] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world/Backup-world-2024-5-4--17-39.zip"
-[17:39:51] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[17:39:58] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 6.75 seconds (15611.17KB/s)
-[17:39:58] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world-2024-5-4--17-39.zip" complete
-[17:39:58] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_nether/Backup-world_nether-2024-5-4--17-39.zip"
-[17:39:58] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[17:40:01] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.72 seconds (3787.03KB/s)
-[17:40:01] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_nether-2024-5-4--17-39.zip" complete
-[17:40:01] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/world_the_end/Backup-world_the_end-2024-5-4--17-39.zip"
-[17:40:01] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[17:40:04] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 2.61 seconds (903.47KB/s)
-[17:40:04] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-world_the_end-2024-5-4--17-39.zip" complete
-[17:40:04] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Starting upload(s) for file "C:/Users/Administrator/Desktop/servak blyat/Paper/backups/plugins/Backup-plugins-2024-5-4--17-39.zip"
-[17:40:04] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Uploading file to Google Drive
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] File uploaded in 4.41 seconds (12621.86KB/s)
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Upload(s) for file "Backup-plugins-2024-5-4--17-39.zip" complete
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Backup(s) uploaded
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for upload errors...
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Backup to Google Drive complete
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] No upload errors found
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Backup complete
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] The next backup is in 59 minutes
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Disabling automatic backups due to inactivity
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_nether"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_nether-2024-5-4--17-39.zip"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_nether"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for "plugins"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-plugins-2024-5-4--17-39.zip"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for "plugins"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world_the_end"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world_the_end-2024-5-4--17-39.zip"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world_the_end"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Pruning local backups for ".\world"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] There are 1 file(s) which exceeds the local limit of 0, deleting oldest
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Deleted local backup "Backup-world-2024-5-4--17-39.zip"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete for ".\world"
-[17:40:08] [Craft Scheduler Thread - 7037 - DriveBackupV2/INFO]: [DriveBackupV2] Local backup pruning complete
+[01:54:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:54:26] [ServerMain/INFO]: Loaded 1174 recipes
+[01:54:26] [ServerMain/INFO]: Loaded 1271 advancements
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: java.lang.NullPointerException: Cannot invoke "org.bukkit.Server.getTPS()" because "org.bukkit.Bukkit.server" is null
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at org.bukkit.Bukkit.getTPS(Bukkit.java:2357)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at com.destroystokyo.paper.gui.RAMDetails.update(RAMDetails.java:62)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at com.destroystokyo.paper.gui.GuiStatsComponent.lambda$new$0(GuiStatsComponent.java:27)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/javax.swing.Timer.fireActionPerformed(Timer.java:311)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/javax.swing.Timer$DoPostEvent.run(Timer.java:243)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:771)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:741)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+[01:54:28] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[01:54:28] [Server thread/WARN]: ****************************
+[01:54:28] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[01:54:28] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[01:54:28] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[01:54:28] [Server thread/WARN]: ****************************
+[01:54:28] [Server thread/INFO]: Loading properties
+[01:54:29] [Server thread/INFO]: This server is running Paper version git-Paper-485 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 862299b)
+[01:54:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:54:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:54:31] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[01:54:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[01:54:32] [Server thread/INFO]: Default game type: SURVIVAL
+[01:54:32] [Server thread/INFO]: Generating keypair
+[01:54:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:54:32] [Server thread/INFO]: Using default channel type
+[01:54:32] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[01:54:32] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[01:54:34] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.1-SNAPSHOT-685
+[01:54:38] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[01:54:39] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@38669e7d]
+[01:54:39] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[01:54:39] [Server thread/INFO]: [SuperLobby] Loading server plugin SuperLobby v4.7.4
+[01:54:39] [Server thread/INFO]: [DriveBackupV2] Loading server plugin DriveBackupV2 v1.6.3
+[01:54:39] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[01:54:39] [Server thread/INFO]: [AuthMeVelocity] Loading server plugin AuthMeVelocity v4.1.1
+[01:54:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:54:39] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.1-SNAPSHOT-685
+[01:54:40] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[01:54:40] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[01:54:40] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[01:54:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:54:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:54:41] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightFaweAdapter as the Bukkit adapter
+[01:54:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:54:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:54:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:54:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:54:42] [Server thread/INFO]: Preparing level "world"
+[01:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:54:43] [Server thread/INFO]: Time elapsed: 350 ms
+[01:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:54:43] [Server thread/INFO]: Time elapsed: 247 ms
+[01:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:54:44] [Server thread/INFO]: Time elapsed: 41 ms
+[01:54:44] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[01:54:44] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[01:54:44] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[01:54:45] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[01:54:45] [Server thread/INFO]: [SuperLobby] Enabling SuperLobby v4.7.4
+[01:54:45] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]    _____                       _           _     _           
+[01:54:45] [Server thread/WARN]: Nag author(s): '[PedroJM96, PedroJM96]' of 'SuperLobby v4.7.4' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]   / ____|                     | |         | |   | |          
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]  | (___  _   _ _ __   ___ _ __| |     ___ | |__ | |__  _   _ 
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]   \___ \| | | | '_ \ / _ \ '__| |    / _ \| '_ \| '_ \| | | |
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]   ____) | |_| | |_) |  __/ |  | |___| (_) | |_) | |_) | |_| |
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]  |_____/ \__,_| .__/ \___|_|  |______\___/|_.__/|_.__/ \__, |
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]               | |                                       __/ |
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]               |_|                                      |___/ 
+[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]     
+[01:54:45] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[01:54:45] [Server thread/INFO]: [SuperLobby] Deluxe Version: V4.7.4
+[01:54:45] [Server thread/INFO]: [SuperLobby] Plugin Create by PedroJM96.
+[01:54:45] [Server thread/INFO]: [SuperLobby] Loading Libraries...
+[01:54:45] [Server thread/INFO]: [SuperLobby] Downloading librarie commons-lang-commons-lang-2.6
+[01:54:46] [Server thread/INFO]: [SuperLobby] Librarie 'commons-lang-commons-lang-2.6' successfully downloaded.
+[01:54:46] [Server thread/INFO]: [SuperLobby] commons-lang-commons-lang-2.6 library loaded successfully.
+[01:54:46] [Server thread/INFO]: [SuperLobby] Downloading librarie commons-codec-commons-codec-1.15
+[01:54:46] [Server thread/INFO]: [SuperLobby] Librarie 'commons-codec-commons-codec-1.15' successfully downloaded.
+[01:54:46] [Server thread/INFO]: [SuperLobby] commons-codec-commons-codec-1.15 library loaded successfully.
+[01:54:46] [Server thread/INFO]: [SuperLobby] Downloading librarie com.google.code.gson-gson-2.9.0
+[01:54:46] [Server thread/INFO]: [SuperLobby] Librarie 'com.google.code.gson-gson-2.9.0' successfully downloaded.
+[01:54:46] [Server thread/INFO]: [SuperLobby] com.google.code.gson-gson-2.9.0 library loaded successfully.
+[01:54:47] [Thread-7/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 14 build(s) out of date.
+You are running build 741, the latest version is build 755.
+Update at https://www.spigotmc.org/resources/13932/
+[01:54:47] [Server thread/INFO]: [SuperLobby] Loading configuration...
+[01:54:47] [Server thread/INFO]: [SuperLobby] The config.yml file does not exist yet.
+[01:54:47] [Server thread/INFO]: [SuperLobby] Creating and loading file config.yml.
+[01:54:47] [Server thread/INFO]: [SuperLobby] config.yml  create.
+[01:54:47] [Server thread/INFO]: [SuperLobby] The messages_EN.yml file does not exist yet.
+[01:54:47] [Server thread/INFO]: [SuperLobby] Creating and loading file messages_EN.yml.
+[01:54:47] [Server thread/INFO]: [SuperLobby] messages_EN.yml  create.
+[01:54:47] [Server thread/INFO]: [SuperLobby] The spawn.yml file does not exist yet.
+[01:54:47] [Server thread/INFO]: [SuperLobby] Creating and loading file spawn.yml.
+[01:54:47] [Server thread/INFO]: [SuperLobby] spawn.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] The chat.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file chat.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] chat.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] The infocommands.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file infocommands.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] infocommands.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /info
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /youtubers
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /socialpages
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /rewards
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /rules
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /help
+[01:54:48] [Server thread/INFO]: [SuperLobby] The customevents.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file customevents.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] customevents.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] The items.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file items.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] items.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Lobby-Item: The item menu has an invalid item Material: SIGN.
+[01:54:48] [Server thread/INFO]: [SuperLobby] The menus.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file menus.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] menus.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /menu
+[01:54:48] [Server thread/INFO]: [SuperLobby] Menu-Item: The item survival has an invalid item Material: GRASS.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /game
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /profile
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /shop
+[01:54:48] [Server thread/INFO]: [SuperLobby] The board.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file board.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] board.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] The announcer.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file announcer.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] announcer.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] The firstjoin.yml file does not exist yet.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file firstjoin.yml.
+[01:54:48] [Server thread/INFO]: [SuperLobby] firstjoin.yml  create.
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register commands...
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register main command superlobby
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command setspawn
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command setspawnpermission
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command setspawnradius
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command remspawn
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command reload
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command help
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command openmenu
+[01:54:48] [Server thread/INFO]: [SuperLobby] Register command  /spawn
+[01:54:48] [Server thread/INFO]: [SuperLobby] Achievements are now hidden.
+[01:54:48] [Server thread/INFO]: [SuperLobby] A total of 4 menus were loaded.
+[01:54:48] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[01:54:48] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.6.3
+[01:54:49] [Server thread/INFO]: [DriveBackupV2] Config loaded!
+[01:54:49] [Server thread/INFO]: [DriveBackupV2] Scheduling a backup to run every 60 minutes
+[01:54:49] [Server thread/INFO]: [DriveBackupV2] Metrics started
+[01:54:49] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[01:54:49] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[01:54:49] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[01:54:49] [Server thread/INFO]: --------------------
+[01:54:49] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[01:54:49] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[01:54:49] [Server thread/INFO]: --------------------
+[01:54:49] [Server thread/INFO]: [AuthMeVelocity] Enabling AuthMeVelocity v4.1.1
+[01:54:49] [Server thread/INFO]: [AuthMeVelocity] AuthMeVelocity enabled
+[01:54:50] [Server thread/INFO]: Running delayed init tasks
+[01:54:50] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[01:54:50] [Server thread/INFO]: Done (21.929s)! For help, type "help"
+[01:54:50] [Server thread/INFO]: Timings Reset
+[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01:54:51] [Craft Scheduler Thread - 0 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for updates...
+[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[02:04:22] [Server thread/INFO]: Stopping server
+[02:04:22] [Server thread/INFO]: [AuthMeVelocity] Disabling AuthMeVelocity v4.1.1
+[02:04:22] [Server thread/INFO]: [AuthMeVelocity] AuthMeVelocity disabled
+[02:04:22] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
+[02:04:22] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[02:04:22] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
+[02:04:22] [Server thread/INFO]: [DriveBackupV2] Disabling DriveBackupV2 v1.6.3
+[02:04:22] [Server thread/INFO]: [DriveBackupV2] Stopping plugin!
+[02:04:22] [Server thread/INFO]: [SuperLobby] Disabling SuperLobby v4.7.4
+[02:04:22] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-beta2-b2453
+[02:04:22] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[02:04:22] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
+[02:04:22] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[02:04:22] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:04:22] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.1-SNAPSHOT-685
+[02:04:22] [Server thread/INFO]: Saving players
+[02:04:22] [Server thread/INFO]: Saving worlds
+[02:04:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:04:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:04:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:04:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:04:23] [Server thread/INFO]: Flushing Chunk IO
+[02:04:23] [Server thread/INFO]: Closing Thread Pool
+[02:04:23] [Server thread/INFO]: Closing Server
