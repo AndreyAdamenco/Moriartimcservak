@@ -173,7 +173,7 @@ commands:
   - testforblock
   - tellraw
   tab-complete: 0
-  send-namespaced: true
+  send-namespaced: false
 config-version: 12
 stats:
   disable-saving: false

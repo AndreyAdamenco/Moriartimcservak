@@ -62,7 +62,7 @@ ftp:
   password: Password
 
 messages:
-  send-in-chat: true
+  send-in-chat: false
   prefix: '&6[&4DriveBackupV2&6] '
   default-color: '&3'
 

@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNjA0NDg5Mjc3OCwKICAicHJvZmlsZUlkIiA6ICI5YjBkNDI0OGI5NmQ0YTg0OWZlYjg0NzA4N2QxNmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWRXYXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4MDYzYTFhNDk3MGMxYjI2N2RlN2QxYTZlNmRkMGY5NjVkNWEyZjRlMGIxMTQxNjhlZGI4ZThlMjg4N2MxMmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==",
+    "signature": "LCCJsUI61X0SUBkVH8mjxXx+yeBeBRx9rnIxVLaBfD9p8vQFW0Peov8qrbq09MXE5Do38gC7ouZ0a0SnR4qvc0dER12bysZLKiVLnlPhJPWGsfsFylO1eY2Np0Zfd9OoQum2RQXVeW2ozGaxX3HABTXeXrLB88xO3KPjbSCGAsng5vm2DO3YfUOAWx9sRsCdetyQDlITwAGvXgTkNUeMxLUYlohhEzkQpratI8pvmhH+oBzV+8YOVuiR3tF95omPr+oSogwCagEGO6vAenp2ydk2WeQHnQDHPsFEuyJlR9flFH2jbfRkGsP01Comrj16poZD9gWNtc3IXpXqOgGFUmV5BmG9Qc6SHKuhFve3zOPoNm0dwxgmgSjqMsGLgEbEGYaNCB8ABTlGtoRbQwxgpNyjdommqSN4zAf1vQjdJbbMhKrbY6od4Ivpd42t2XJXZ/OkZosf1kdo6Pmmr4p21iKq08EpeOLBRmg/UXjeE3Es9dljIH7wnb0vp00V3vnWuK75tYdh+I2jJ2NVSIc8JZ/m/RboOA9+NBZcCa2CNHvqj9hUrnJ06l4mLjwOMagq0s3KT5kt8N517em/xHSkA0HVDsEMigcYiePByrrgnHLzal0kUSaCjsYjPtYqYYLlXjc2mFbrFzKlpD7QaWM1BO7qABVpW8riLyQg4LZOBhE=",
+    "skinName": "Steve",
+    "location": {
+      "world": "world",
+      "x": -69.5,
+      "y": 202.0,
+      "z": 660.5,
+      "yaw": 87.96049,
+      "pitch": 4.9753885
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "BedWars"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CONSOLE",
+        "clickType": "DEFAULT",
+        "action": "dm open basics_menu %player_name%",
+        "delay": 0
+      },
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "mvtp %player_name% game",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTcwNTg3NjEwMjAzNiwKICAicHJvZmlsZUlkIiA6ICIxMjI5N2FmZjg1OTI0YTRlYjI3MjFhZWIwNDI5MDA4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICIzdjN2M3YzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3OWY4ZmM4OWVkZDI1Njg1ZTM3MzU2Mzc1YzA5NTZhNjkwNTk2MDNmZDU5OTY0ZWJlYmI5ZjlkM2QyZjk5YiIKICAgIH0KICB9Cn0=",
+    "signature": "be+bUpq7mo+SusTd2zYrmTrInJXLezrMj+Cb5ycqH8FQKfGxqJFGGn0yCf1HJYPxO2+SsgsK2TgkF7Nn/3bXMCsV2Vl2eqLCD3pT0AH+01GNn3qsTs2rdUjf+XOwunX5RFUATepkRnczs23f2wMWD90rG4STEri1fObZGpb3Zmv0KKCUt58Qw1Zhajodnlf3otU7Fvc+XxnZd3+1ySCzgqNmlq5XRi+rtcG+GwjNUmAceuoqgwfn4VjthfU5SG+Ku/EeHZwvMqPexPYy8wlZEeGNJp+Ftip3hSeVQBgw/G6QO7U8heebu93sa2BtwaCVHFaEMT37tZpwl3QeFB29W2pb+6TXh4lqlNST6aqHjAkVVV+UMkmZN8Sz22aT7ZDl5UzBO5fNx933Udljavg8Udg6aKJlTpcvcOBmshuFOwHIfQeFNy+klOFL2IVCqvUzZUya90fKxs1JcUiFx5gJ3Jzse6xlE+38RPgdewyS+dMro5MAhu5a54BqNJaEeEaJZkV14gq6It3kcnNJU4B29XxoCEQLV8jQXjKkm2PZA5lFzs/5111tAqf+K6KKjIs35F775E63hWsDdQtCsMazHf4bZ8MxTKZ5+KeaXh90RIYl8vlpTkCodaD6cBChq+iYGY9XdS+mLOLahIgd7+HOUaZJ1LiVMiIhNEdEqbKqBvU=",
+    "skinName": "Steve",
+    "location": {
+      "world": "game",
+      "x": 0.5,
+      "y": -60.0,
+      "z": 4.5,
+      "yaw": 0.0,
+      "pitch": 0.0
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "3v3v3v3"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "dm open main_menu %player_name%",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true
+    },
+    "customizationMap": {}
+  },
+  {
+    "id": 3,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "conversation": {
+      "conversationName": "gui",
+      "conversationType": "RADIUS"
+    },
+    "location": {
+      "world": "bedwarsminzurki",
+      "x": 136.5,
+      "y": 167.0,
+      "z": -81.5,
+      "yaw": 105.84654,
+      "pitch": 17.999704
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "Bedwarsbitch"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true
+    },
+    "customizationMap": {}
+  }
+]

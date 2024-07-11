@@ -1,0 +1,335 @@
+[14:22:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:22:40] [ServerMain/INFO]: Loaded 1174 recipes
+[14:22:41] [ServerMain/INFO]: Loaded 1271 advancements
+[14:22:43] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:22:43] [Server thread/WARN]: ****************************
+[14:22:43] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[14:22:43] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[14:22:43] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[14:22:43] [Server thread/WARN]: ****************************
+[14:22:43] [Server thread/INFO]: Loading properties
+[14:22:43] [Server thread/INFO]: This server is running Paper version git-Paper-485 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 862299b)
+[14:22:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:22:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:22:45] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:22:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[14:22:46] [Server thread/INFO]: Default game type: SURVIVAL
+[14:22:46] [Server thread/INFO]: Generating keypair
+[14:22:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:22:47] [Server thread/INFO]: Using default channel type
+[14:22:47] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:22:47] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:22:48] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[14:22:48] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[14:22:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@64d17a1c]
+[14:22:51] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.1-SNAPSHOT-685
+[14:22:55] [Server thread/INFO]: [LastLoginAPI] Loading server plugin LastLoginAPI v1.7.4
+[14:22:55] [Server thread/INFO]: [LastLoginAPI] Loading libraries of LastLoginAPI v1.7.4, this may take a while
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Downloading jar-relocator...
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jar-relocator
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Downloading asm...
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for asm
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Downloading asm-commons...
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for asm-commons
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Downloading gson...
+[14:22:56] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for gson
+[14:22:57] [Server thread/INFO]: [LastLoginAPI] Downloading jdbi3-core...
+[14:22:57] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jdbi3-core
+[14:22:59] [Server thread/INFO]: [LastLoginAPI] Downloading geantyref...
+[14:22:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for geantyref
+[14:23:00] [Server thread/INFO]: [LastLoginAPI] Downloading caffeine...
+[14:23:00] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for caffeine
+[14:23:01] [Server thread/INFO]: [LastLoginAPI] Downloading jdbi3-stringtemplate4...
+[14:23:01] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jdbi3-stringtemplate4
+[14:23:01] [Server thread/INFO]: [LastLoginAPI] Downloading ST4...
+[14:23:01] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for ST4
+[14:23:02] [Server thread/INFO]: [LastLoginAPI] Downloading antlr-runtime...
+[14:23:02] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for antlr-runtime
+[14:23:02] [Server thread/INFO]: [LastLoginAPI] Downloading jdbi3-sqlobject...
+[14:23:02] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jdbi3-sqlobject
+[14:23:02] [Server thread/INFO]: [LastLoginAPI] Downloading slf4j-api...
+[14:23:02] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for slf4j-api
+[14:23:03] [Server thread/INFO]: [LastLoginAPI] Downloading slf4j-simple...
+[14:23:03] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for slf4j-simple
+[14:23:03] [Server thread/INFO]: [LastLoginAPI] Downloading HikariCP...
+[14:23:03] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for HikariCP
+[14:23:04] [Server thread/INFO]: [LastLoginAPI] Downloading mariadb-java-client...
+[14:23:04] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for mariadb-java-client
+[14:23:05] [Server thread/INFO]: [LastLoginAPI] Downloading mysql-connector-j...
+[14:23:05] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for mysql-connector-j
+[14:23:07] [Server thread/INFO]: [LastLoginAPI] Downloading postgresql...
+[14:23:07] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for postgresql
+[14:23:08] [Server thread/INFO]: [LastLoginAPI] Downloading h2...
+[14:23:08] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for h2
+[14:23:10] [Server thread/INFO]: [Multiverse-Portals] Loading server plugin Multiverse-Portals v4.2.3
+[14:23:10] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[14:23:10] [Server thread/INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v4.2.6
+[14:23:10] [Server thread/INFO]: [SuperLobby] Loading server plugin SuperLobby v4.7.4
+[14:23:10] [Server thread/INFO]: [Parties] Loading server plugin Parties v3.2.14
+[14:23:10] [Server thread/INFO]: [Parties] Loading libraries of Parties v3.2.14, this may take a while
+[14:23:10] [Server thread/INFO]: [Parties] Downloading jar-relocator...
+[14:23:10] [Server thread/INFO]: [Parties] Verifying checksum for jar-relocator
+[14:23:10] [Server thread/INFO]: [Parties] Downloading asm...
+[14:23:10] [Server thread/INFO]: [Parties] Verifying checksum for asm
+[14:23:10] [Server thread/INFO]: [Parties] Downloading asm-commons...
+[14:23:10] [Server thread/INFO]: [Parties] Verifying checksum for asm-commons
+[14:23:11] [Server thread/INFO]: [Parties] Downloading gson...
+[14:23:11] [Server thread/INFO]: [Parties] Verifying checksum for gson
+[14:23:11] [Server thread/INFO]: [Parties] Downloading jdbi3-core...
+[14:23:11] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-core
+[14:23:12] [Server thread/INFO]: [Parties] Downloading geantyref...
+[14:23:12] [Server thread/INFO]: [Parties] Verifying checksum for geantyref
+[14:23:13] [Server thread/INFO]: [Parties] Downloading caffeine...
+[14:23:13] [Server thread/INFO]: [Parties] Verifying checksum for caffeine
+[14:23:14] [Server thread/INFO]: [Parties] Downloading jdbi3-stringtemplate4...
+[14:23:14] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-stringtemplate4
+[14:23:14] [Server thread/INFO]: [Parties] Downloading ST4...
+[14:23:14] [Server thread/INFO]: [Parties] Verifying checksum for ST4
+[14:23:14] [Server thread/INFO]: [Parties] Downloading antlr-runtime...
+[14:23:14] [Server thread/INFO]: [Parties] Verifying checksum for antlr-runtime
+[14:23:15] [Server thread/INFO]: [Parties] Downloading jdbi3-sqlobject...
+[14:23:15] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-sqlobject
+[14:23:15] [Server thread/INFO]: [Parties] Downloading slf4j-api...
+[14:23:15] [Server thread/INFO]: [Parties] Verifying checksum for slf4j-api
+[14:23:15] [Server thread/INFO]: [Parties] Downloading slf4j-simple...
+[14:23:15] [Server thread/INFO]: [Parties] Verifying checksum for slf4j-simple
+[14:23:16] [Server thread/INFO]: [Parties] Downloading HikariCP...
+[14:23:16] [Server thread/INFO]: [Parties] Verifying checksum for HikariCP
+[14:23:16] [Server thread/INFO]: [Parties] Downloading mariadb-java-client...
+[14:23:16] [Server thread/INFO]: [Parties] Verifying checksum for mariadb-java-client
+[14:23:17] [Server thread/INFO]: [Parties] Downloading mysql-connector-j...
+[14:23:17] [Server thread/INFO]: [Parties] Verifying checksum for mysql-connector-j
+[14:23:19] [Server thread/INFO]: [Parties] Downloading postgresql...
+[14:23:19] [Server thread/INFO]: [Parties] Verifying checksum for postgresql
+[14:23:20] [Server thread/INFO]: [Parties] Downloading h2...
+[14:23:20] [Server thread/INFO]: [Parties] Verifying checksum for h2
+[14:23:22] [Server thread/INFO]: [Parties] Downloading exp4j...
+[14:23:22] [Server thread/INFO]: [Parties] Verifying checksum for exp4j
+[14:23:22] [Server thread/INFO]: [Multiverse-SignPortals] Loading server plugin Multiverse-SignPortals v4.2.2
+[14:23:22] [Server thread/INFO]: [Multiverse-NetherPortals] Loading server plugin Multiverse-NetherPortals v4.2.3
+[14:23:22] [Server thread/INFO]: [ItemJoin] Loading server plugin ItemJoin v6.0.5-RELEASE-b928
+[14:23:22] [Server thread/INFO]: [DriveBackupV2] Loading server plugin DriveBackupV2 v1.6.3
+[14:23:22] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[14:23:22] [Server thread/INFO]: [AuthMeVelocity] Loading server plugin AuthMeVelocity v4.1.1
+[14:23:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:23:22] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[14:23:22] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[14:23:22] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[14:23:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:23:23] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:23:23] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightFaweAdapter as the Bukkit adapter
+[14:23:24] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.1-SNAPSHOT-685
+[14:23:24] [Server thread/INFO]: [ItemJoin] Enabling ItemJoin v6.0.5-RELEASE-b928
+[14:23:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:23:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:23:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:23:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:23:24] [Server thread/INFO]: Preparing level "world"
+[14:23:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:23:26] [Server thread/INFO]: Time elapsed: 261 ms
+[14:23:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:23:26] [Server thread/INFO]: Time elapsed: 53 ms
+[14:23:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:23:26] [Server thread/INFO]: Time elapsed: 38 ms
+[14:23:26] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[14:23:26] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[14:23:26] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[14:23:26] [Server thread/WARN]: [Multiverse-Core] Cannot load worlds.yml
+[14:23:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8467461424364735531
+[14:23:28] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8467461424364735531
+[14:23:29] [Thread-7/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 18 build(s) out of date.
+You are running build 741, the latest version is build 759.
+Update at https://www.spigotmc.org/resources/13932/
+[14:23:31] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[14:23:31] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 66 Z: 0 P: 0 Y: 0 
+[14:23:32] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_nether' is located at: world_nether:7.50,67.00,-6.50:0.00:0.00
+[14:23:32] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8467461424364735531
+[14:23:32] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[14:23:32] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 61 Z: 0 P: 0 Y: 0 
+[14:23:32] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_the_end' is located at: world_the_end:1.50,61.00,0.50:0.00:0.00
+[14:23:33] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[14:23:33] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[14:23:33] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[14:23:33] [Server thread/INFO]: [LastLoginAPI] Enabling LastLoginAPI v1.7.4
+[14:23:33] [Server thread/INFO]: [LastLoginAPI] Initializing LastLoginAPI v1.7.4
+[14:23:35] [Server thread/INFO]: [LastLoginAPI] LastLoginAPI v1.7.4 enabled
+[14:23:35] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[14:23:35] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[14:23:35] [Server thread/INFO]: [Multiverse-Portals] Found FastAsyncWorldEdit. Using it for selections.
+[14:23:35] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[14:23:35] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[14:23:36] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[14:23:36] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[14:23:36] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[14:23:37] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[14:23:37] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[14:23:37] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[14:23:37] [Server thread/INFO]: [SuperLobby] Enabling SuperLobby v4.7.4
+[14:23:37] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]    _____                       _           _     _           
+[14:23:37] [Server thread/WARN]: Nag author(s): '[PedroJM96, PedroJM96]' of 'SuperLobby v4.7.4' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]   / ____|                     | |         | |   | |          
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]  | (___  _   _ _ __   ___ _ __| |     ___ | |__ | |__  _   _ 
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]   \___ \| | | | '_ \ / _ \ '__| |    / _ \| '_ \| '_ \| | | |
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]   ____) | |_| | |_) |  __/ |  | |___| (_) | |_) | |_) | |_| |
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]  |_____/ \__,_| .__/ \___|_|  |______\___/|_.__/|_.__/ \__, |
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]               | |                                       __/ |
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]               |_|                                      |___/ 
+[14:23:37] [Server thread/INFO]: [SuperLobby] [STDOUT]     
+[14:23:37] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[14:23:37] [Server thread/INFO]: [SuperLobby] Deluxe Version: V4.7.4
+[14:23:37] [Server thread/INFO]: [SuperLobby] Plugin Create by PedroJM96.
+[14:23:37] [Server thread/INFO]: [SuperLobby] Loading Libraries...
+[14:23:37] [Server thread/INFO]: [SuperLobby] Loading library commons-lang-commons-lang-2.6
+[14:23:37] [Server thread/INFO]: [SuperLobby] commons-lang-commons-lang-2.6 library loaded successfully.
+[14:23:37] [Server thread/INFO]: [SuperLobby] Loading library commons-codec-commons-codec-1.15
+[14:23:37] [Server thread/INFO]: [SuperLobby] commons-codec-commons-codec-1.15 library loaded successfully.
+[14:23:37] [Server thread/INFO]: [SuperLobby] Loading library com.google.code.gson-gson-2.9.0
+[14:23:37] [Server thread/INFO]: [SuperLobby] com.google.code.gson-gson-2.9.0 library loaded successfully.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Loading configuration...
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load config.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] config.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load messages_EN.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] messages_EN.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load spawn.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] spawn.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load chat.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] chat.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load infocommands.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] infocommands.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register info command /info
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register info command /youtubers
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register info command /socialpages
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register info command /rewards
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register info command /rules
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register info command /help
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load customevents.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] customevents.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load items.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] items.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Lobby-Item: The item menu has an invalid item Material: SIGN.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load menus.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] menus.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register command menu /menu
+[14:23:38] [Server thread/INFO]: [SuperLobby] Menu-Item: The item survival has an invalid item Material: GRASS.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register command menu /game
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register command menu /profile
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register command menu /shop
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load board.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] board.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load announcer.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] announcer.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Load firstjoin.yml
+[14:23:38] [Server thread/INFO]: [SuperLobby] firstjoin.yml loaded.
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register commands...
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register main command superlobby
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register sub-command setspawn
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register sub-command setspawnpermission
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register sub-command setspawnradius
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register sub-command remspawn
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register sub-command reload
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register sub-command help
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register sub-command openmenu
+[14:23:38] [Server thread/INFO]: [SuperLobby] Register command  /spawn
+[14:23:38] [Server thread/INFO]: [SuperLobby] Achievements are now hidden.
+[14:23:38] [Server thread/INFO]: [SuperLobby] A total of 4 menus were loaded.
+[14:23:38] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[14:23:38] [Server thread/INFO]: [Parties] Enabling Parties v3.2.14
+[14:23:38] [Server thread/INFO]: [Parties] Initializing Parties v3.2.14
+[14:23:41] [Server thread/INFO]: [Parties] Hooked into LastLoginAPI
+[14:23:41] [Server thread/INFO]: [Parties] Parties v3.2.14 enabled
+[14:23:41] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v4.2.2
+[14:23:41] [Server thread/INFO]: [Multiverse-SignPortals 4.2.2]  Enabled - By Rigby and fernferret
+[14:23:41] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v4.2.3
+[14:23:41] [Server thread/INFO]: [Multiverse-NetherPortals] Creating new config.yml
+[14:23:41] [Server thread/INFO]: [Multiverse-NetherPortals 4.2.3]  Enabled - By Rigby and fernferret
+[14:23:41] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.6.3
+[14:23:42] [Server thread/INFO]: [DriveBackupV2] Config loaded!
+[14:23:42] [Server thread/INFO]: [DriveBackupV2] Scheduling a backup to run every 60 minutes
+[14:23:42] [Server thread/INFO]: [DriveBackupV2] Metrics started
+[14:23:42] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[14:23:42] [parties-pool-0/INFO]: [Parties] Parties v3.2.14 found a new version: 3.2.15
+[14:23:42] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[14:23:42] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[14:23:42] [Server thread/INFO]: --------------------
+[14:23:42] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[14:23:42] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[14:23:42] [Server thread/INFO]: --------------------
+[14:23:42] [Server thread/INFO]: [AuthMeVelocity] Enabling AuthMeVelocity v4.1.1
+[14:23:43] [Server thread/INFO]: [AuthMeVelocity] AuthMeVelocity enabled
+[14:23:43] [Server thread/INFO]: Running delayed init tasks
+[14:23:44] [Craft Scheduler Thread - 5 - ItemJoin/INFO]: [ItemJoin] Running a developer version ... skipping NMS check.
+[14:23:44] [Craft Scheduler Thread - 5 - ItemJoin/INFO]: [ItemJoin] Hooked into { AuthMe, Multiverse-Core, Multiverse-Inventories, ProtocolLib }
+[14:23:44] [Craft Scheduler Thread - 5 - ItemJoin/INFO]: [ItemJoin] 1 Custom item(s) loaded!
+[14:23:44] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[14:23:44] [Craft Scheduler Thread - 9 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[14:23:44] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[14:23:44] [Craft Scheduler Thread - 9 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[14:23:44] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[14:23:44] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[14:23:44] [Server thread/INFO]: [Multiverse-Inventories] Created a default group for you containing all of your default worlds: world, world_nether, world_the_end
+[14:23:44] [Server thread/INFO]: Done (61.565s)! For help, type "help"
+[14:23:44] [Server thread/INFO]: Timings Reset
+[14:23:44] [Craft Scheduler Thread - 7 - ItemJoin/INFO]: [ItemJoin] Checking for updates...
+[14:23:45] [Craft Scheduler Thread - 7 - ItemJoin/INFO]: [ItemJoin] You are up to date!
+[14:23:45] [Craft Scheduler Thread - 10 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for updates...
+[14:23:46] [Thread-12/INFO]: --------------------
+[14:23:46] [Thread-12/INFO]: [CoreProtect] Version 22.3 is now available.
+[14:23:46] [Thread-12/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[14:23:46] [Thread-12/INFO]: --------------------
+[14:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[14:24:31] [Server thread/INFO]: Stopping server
+[14:24:31] [Server thread/INFO]: [AuthMeVelocity] Disabling AuthMeVelocity v4.1.1
+[14:24:31] [Server thread/INFO]: [AuthMeVelocity] AuthMeVelocity disabled
+[14:24:32] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
+[14:24:32] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[14:24:33] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
+[14:24:33] [Server thread/INFO]: [DriveBackupV2] Disabling DriveBackupV2 v1.6.3
+[14:24:33] [Server thread/INFO]: [DriveBackupV2] Stopping plugin!
+[14:24:33] [Server thread/INFO]: [ItemJoin] Disabling ItemJoin v6.0.5-RELEASE-b928
+[14:24:33] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v4.2.3
+[14:24:33] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[14:24:33] [Server thread/INFO]: [Multiverse-SignPortals] Disabling Multiverse-SignPortals v4.2.2
+[14:24:33] [Server thread/INFO]: [Multiverse-SignPortals] - Disabled
+[14:24:33] [Server thread/INFO]: [Parties] Disabling Parties v3.2.14
+[14:24:33] [Server thread/INFO]: [Parties] Disabling Parties
+[14:24:33] [Server thread/INFO]: [Parties] Parties disabled
+[14:24:33] [Server thread/INFO]: [SuperLobby] Disabling SuperLobby v4.7.4
+[14:24:33] [Server thread/INFO]: [Multiverse-Inventories] Disabling Multiverse-Inventories v4.2.6
+[14:24:33] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-beta2-b2453
+[14:24:33] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[14:24:33] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
+[14:24:33] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.3
+[14:24:33] [Server thread/INFO]: [LastLoginAPI] Disabling LastLoginAPI v1.7.4
+[14:24:33] [Server thread/INFO]: [LastLoginAPI] Disabling LastLoginAPI
+[14:24:33] [Server thread/INFO]: [LastLoginAPI] LastLoginAPI disabled
+[14:24:33] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.1-SNAPSHOT-685
+[14:24:33] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[14:24:33] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:24:33] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.12
+[14:24:33] [Server thread/INFO]: Saving players
+[14:24:33] [Server thread/INFO]: Saving worlds
+[14:24:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:24:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:24:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:24:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:24:36] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 2.95s
+[14:24:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:24:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:24:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:24:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:24:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:24:39] [Server thread/INFO]: [ChunkHolderManager] Saved 1194 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 2.50s
+[14:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:24:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:24:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:24:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:24:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:24:40] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.46s
+[14:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:24:40] [Server thread/INFO]: Flushing Chunk IO
+[14:24:40] [Server thread/INFO]: Closing Thread Pool
+[14:24:40] [Server thread/INFO]: Closing Server

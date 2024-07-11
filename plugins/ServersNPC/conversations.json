@@ -1,0 +1,19 @@
+[
+  {
+    "name": "gui",
+    "texts": [
+      {
+        "lines": [
+          "idi",
+          "nahui",
+          "pidos",
+          "pidoras"
+        ],
+        "actions": [],
+        "delay": 1
+      }
+    ],
+    "radius": 50,
+    "delay": 999
+  }
+]

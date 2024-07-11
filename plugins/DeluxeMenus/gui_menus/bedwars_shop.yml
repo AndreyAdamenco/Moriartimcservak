@@ -1,0 +1,52 @@
+  menu_title: "&6BedWars Shop"
+  open_command: "bedwarsshop"
+  size: 54
+  items:
+    blocks:
+      material: STONE
+      slot: 10
+      display_name: "&aBlocks"
+      lore:
+        - "&7Click to browse blocks"
+      left_click_commands:
+        - "[open] bedwars_blocks_menu"
+    weapons:
+      material: IRON_SWORD
+      slot: 12
+      display_name: "&aWeapons"
+      lore:
+        - "&7Click to browse weapons"
+      left_click_commands:
+        - "[open] bedwars_weapons_menu"
+    armor:
+      material: DIAMOND_CHESTPLATE
+      slot: 14
+      display_name: "&aArmor"
+      lore:
+        - "&7Click to browse armor"
+      left_click_commands:
+        - "[open] bedwars_armor_menu"
+    tools:
+      material: DIAMOND_PICKAXE
+      slot: 16
+      display_name: "&aTools"
+      lore:
+        - "&7Click to browse tools"
+      left_click_commands:
+        - "[open] bedwars_tools_menu"
+    potions:
+      material: POTION
+      slot: 28
+      display_name: "&aPotions"
+      lore:
+        - "&7Click to browse potions"
+      left_click_commands:
+        - "[open] bedwars_potions_menu"
+    utilities:
+      material: TNT
+      slot: 30
+      display_name: "&aUtilities"
+      lore:
+        - "&7Click to browse utilities"
+      left_click_commands:
+        - "[open] bedwars_utilities_menu"

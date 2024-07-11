@@ -91,3 +91,1036 @@
 	at java.base/java.lang.Thread.run(Thread.java:842)
 
 [05-05 02:04:22]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-05 02:05:26]: [INFO] SQLite Setup finished
+[05-05 02:05:26]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-05 02:05:27]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-05 02:05:31]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-05 02:05:31]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-05 02:05:31]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-05 02:05:31]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-05 02:05:31]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-05 13:02:22]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-05 13:03:04]: [INFO] SQLite Setup finished
+[05-05 13:03:05]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-05 13:03:05]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-05 13:03:10]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-05 13:03:10]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-05 13:03:10]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-05 13:03:10]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-05 13:03:10]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-05 13:48:49]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-05 13:49:58]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-05 13:50:43]: [INFO] SQLite Setup finished
+[05-05 13:50:43]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-05 13:50:45]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-05 13:50:49]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-05 13:50:49]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-05 13:50:49]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-05 13:50:50]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-05 13:50:50]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-05 13:51:20]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-05 13:53:53]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-05 13:54:40]: [INFO] SQLite Setup finished
+[05-05 13:54:40]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-05 13:54:41]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-05 13:54:45]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-05 13:54:45]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-05 13:54:45]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-05 13:54:45]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-05 13:54:45]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-05 13:55:35]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-05 17:37:39]: [FINE] dedvnytr used the wrong password
+[05-05 17:37:45]: [FINE] dedvnytr used the wrong password
+[05-05 17:53:22]: [FINE] dedvnytr used the wrong password
+[05-05 17:53:30]: [FINE] dedvnytr used the wrong password
+[05-05 17:53:38]: [FINE] dedvnytr used the wrong password
+[05-05 17:53:45]: [FINE] dedvnytr logged in 79.142.200.7
+[05-05 18:01:31]: [INFO] SQLite Setup finished
+[05-05 18:01:31]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-05 18:01:32]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-05 18:01:38]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-05 18:01:38]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-05 18:01:38]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-05 18:01:38]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-05 18:01:38]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-05 18:03:29]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-05 18:05:37]: [INFO] SQLite Setup finished
+[05-05 18:05:38]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-05 18:05:39]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-05 18:05:44]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-05 18:05:44]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-05 18:05:44]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-05 18:05:44]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-05 18:05:44]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-05 18:06:09]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-05 18:14:21]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-05 18:15:00]: [INFO] SQLite Setup finished
+[05-05 18:15:00]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-05 18:15:01]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-05 18:15:05]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-05 18:15:05]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-05 18:15:05]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-05 18:15:05]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-05 18:15:05]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-05 18:15:31]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-05 18:17:08]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-05 18:17:27]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-06 15:17:06]: [FINE] thle_ logged in 185.204.71.20
+[05-06 19:38:09]: [FINE] thle_ used the wrong password
+[05-06 19:38:21]: [FINE] thle_ logged in 185.204.71.20
+[05-06 19:50:52]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-06 19:54:28]: [FINE] thle_ logged in 185.204.71.20
+[05-06 21:32:47]: [FINE] thle_ logged in 185.204.71.20
+[05-07 20:15:51]: [FINE] thle_ logged in 185.204.71.20
+[05-08 09:16:15]: [FINE] thle_ logged in 185.204.71.20
+[05-08 13:06:43]: [FINE] thle_ logged in 185.204.71.20
+[05-08 14:03:01]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-08 14:23:36]: [INFO] SQLite Setup finished
+[05-08 14:23:36]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-08 14:23:36]: [INFO] Hooked successfully into Multiverse-Core
+[05-08 14:23:37]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-08 14:23:44]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-08 14:23:44]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-08 14:23:44]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-08 14:23:44]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+[05-08 14:23:44]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-beta2.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[05-08 14:24:33]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-08 15:03:18]: [INFO] SQLite Setup finished
+[05-08 15:03:19]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-08 15:03:19]: [INFO] Hooked successfully into Multiverse-Core
+[05-08 15:03:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-08 15:03:19]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-08 15:57:21]: [FINE] sans2280448 logged in 84.188.101.46
+[05-08 16:56:26]: [FINE] sans2280448 logged in 84.188.101.46
+[05-08 17:03:20]: [FINE] sans2280448 logged in 84.188.101.46
+[05-08 17:14:24]: [FINE] sans2280448 logged in 84.188.101.46
+[05-08 17:16:20]: [FINE] sans2280448 logged in 84.188.101.46
+[05-08 17:19:50]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-08 17:22:37]: [INFO] SQLite Setup finished
+[05-08 17:22:37]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-08 17:22:38]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-08 17:22:38]: [INFO] Hooked successfully into Multiverse-Core
+[05-08 17:22:38]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-08 22:03:28]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:07:35]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:07:56]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 20:19:18]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-09 20:20:17]: [INFO] SQLite Setup finished
+[05-09 20:20:18]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-09 20:20:18]: [INFO] Hooked successfully into Multiverse-Core
+[05-09 20:20:18]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-09 20:20:19]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-09 20:22:03]: [INFO] SQLite Setup finished
+[05-09 20:22:03]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-09 20:22:03]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-09 20:22:03]: [INFO] Hooked successfully into Multiverse-Core
+[05-09 20:22:04]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-09 20:23:15]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:24:51]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-09 20:25:53]: [INFO] SQLite Setup finished
+[05-09 20:25:53]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-09 20:25:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-09 20:25:53]: [INFO] Hooked successfully into Multiverse-Core
+[05-09 20:25:54]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-09 20:26:25]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 20:28:18]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:30:02]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:36:35]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:45:57]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:46:34]: [FINE] thle_ logged in 185.204.71.20
+[05-09 20:52:01]: [FINE] thle_ logged in 185.204.71.20
+[05-09 21:33:25]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 21:33:54]: [FINE] thle_ logged in 185.204.71.20
+[05-09 21:41:01]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 21:43:18]: [FINE] thle_ logged in 185.204.71.20
+[05-09 21:47:54]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-09 21:48:50]: [INFO] SQLite Setup finished
+[05-09 21:48:51]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-09 21:48:51]: [INFO] Hooked successfully into Multiverse-Core
+[05-09 21:48:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-09 21:48:51]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-09 21:49:22]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 21:51:34]: [INFO] SQLite Setup finished
+[05-09 21:51:34]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-09 21:51:34]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-09 21:51:34]: [INFO] Hooked successfully into Multiverse-Core
+[05-09 21:51:36]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-09 21:52:44]: [FINE] thle_ logged in 185.204.71.20
+[05-09 21:53:01]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 22:02:32]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 22:03:44]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-09 22:04:38]: [INFO] SQLite Setup finished
+[05-09 22:04:38]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-09 22:04:39]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-09 22:04:39]: [INFO] Hooked successfully into Multiverse-Core
+[05-09 22:04:39]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-09 22:05:19]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-09 22:05:28]: [FINE] thle_ logged in 185.204.71.20
+[05-10 00:36:47]: [INFO] SQLite Setup finished
+[05-10 00:36:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 00:36:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 00:36:48]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 00:36:48]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 00:39:02]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 00:47:14]: [INFO] SQLite Setup finished
+[05-10 00:47:15]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 00:47:15]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 00:47:15]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 00:47:15]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 00:48:16]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 00:52:38]: [INFO] SQLite Setup finished
+[05-10 00:52:38]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 00:52:38]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 00:52:38]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 00:52:39]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 00:53:11]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 01:26:07]: [FINE] Test registered 76.34.138.145
+[05-10 01:26:07]: [FINE] Test logged in 76.34.138.145
+[05-10 01:29:14]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-10 01:30:13]: [INFO] SQLite Setup finished
+[05-10 01:30:13]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 01:30:13]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 01:30:13]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 01:30:13]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 01:31:54]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 01:36:50]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-10 01:37:47]: [INFO] SQLite Setup finished
+[05-10 01:37:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 01:37:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 01:37:48]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 01:37:48]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 01:40:35]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 01:51:13]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-10 01:52:16]: [INFO] SQLite Setup finished
+[05-10 01:52:17]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 01:52:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 01:52:17]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 01:52:18]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 01:52:51]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 01:56:15]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 01:58:01]: [FINE] Test logged in 76.34.138.145
+[05-10 02:00:35]: [INFO] SQLite Setup finished
+[05-10 02:00:35]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 02:00:35]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 02:00:35]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 02:00:36]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 02:01:06]: [FINE] Test logged in 76.34.138.145
+[05-10 19:50:37]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 19:56:53]: [INFO] SQLite Setup finished
+[05-10 19:56:53]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 19:56:54]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 19:56:54]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 19:56:54]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 19:57:31]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 20:45:38]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-10 20:47:05]: [INFO] SQLite Setup finished
+[05-10 20:47:05]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 20:47:06]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 20:47:06]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 20:47:06]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 20:48:03]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 21:07:01]: [FINE] SvaTshiK used the wrong password
+[05-10 21:07:07]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 21:16:33]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 21:17:28]: [FINE] thle_ logged in 185.204.71.20
+[05-10 21:18:04]: [FINE] thle_ logged in 185.204.71.20
+[05-10 21:18:24]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 21:25:06]: [FINE] thle_ logged in 185.204.71.20
+[05-10 22:10:31]: [FINE] thle_ logged in 185.204.71.20
+[05-10 22:30:01]: [FINE] dedvnytr logged in 185.44.147.88
+[05-10 23:02:31]: [FINE] thle_ logged in 185.204.71.20
+[05-10 23:36:42]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-10 23:41:55]: [INFO] SQLite Setup finished
+[05-10 23:41:55]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-10 23:41:55]: [INFO] Hooked successfully into Multiverse-Core
+[05-10 23:41:55]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-10 23:41:55]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-10 23:42:20]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 00:01:59]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-11 00:03:23]: [INFO] SQLite Setup finished
+[05-11 00:03:24]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 00:03:24]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 00:03:24]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 00:03:24]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 00:09:28]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[05-11 00:11:11]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 00:12:47]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[05-11 00:14:18]: [FINE] egor_morgen34 registered 88.130.57.51
+[05-11 00:14:18]: [FINE] egor_morgen34 logged in 88.130.57.51
+[05-11 00:19:05]: [INFO] SQLite Setup finished
+[05-11 00:19:05]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 00:19:05]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 00:19:05]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 00:19:05]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 00:19:37]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 00:19:39]: [FINE] egor_morgen34 logged in 88.130.57.51
+[05-11 00:19:45]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[05-11 02:29:04]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 02:51:13]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 03:24:29]: [FINE] egor_morgen34 logged in 88.130.58.226
+[05-11 07:26:02]: [FINE] dedvnytr logged in 185.44.147.88
+[05-11 08:57:05]: [FINE] dedvnytr logged in 185.44.147.88
+[05-11 09:08:25]: [FINE] dedvnytr logged in 185.44.147.88
+[05-11 11:34:56]: [FINE] egor_morgen34 logged in 88.130.58.226
+[05-11 11:37:16]: [FINE] egor_morgen34 logged in 88.130.58.226
+[05-11 13:00:00]: [FINE] Shizoid_777 registered 46.33.39.194
+[05-11 13:00:00]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-11 13:02:53]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 13:13:52]: [INFO] SQLite Setup finished
+[05-11 13:13:52]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 13:13:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 13:13:53]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 13:13:53]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 13:14:45]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 13:18:20]: [INFO] SQLite Setup finished
+[05-11 13:18:20]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 13:18:20]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 13:18:20]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 13:18:20]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 13:19:00]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 13:23:10]: [INFO] SQLite Setup finished
+[05-11 13:23:10]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 13:23:10]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 13:23:10]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 13:23:10]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 13:26:47]: [INFO] SQLite Setup finished
+[05-11 13:26:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 13:26:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 13:26:48]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 13:26:48]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 13:27:21]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 13:30:32]: [INFO] SQLite Setup finished
+[05-11 13:30:32]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 13:30:32]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 13:30:33]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 13:30:33]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 13:32:04]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-11 13:35:37]: [INFO] SQLite Setup finished
+[05-11 13:35:37]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-11 13:35:37]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-11 13:35:37]: [INFO] Hooked successfully into Multiverse-Core
+[05-11 13:35:37]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-11 13:36:29]: [FINE] egor_morgen34 logged in 88.130.58.226
+[05-11 13:39:00]: [FINE] Shizoid_777 used the wrong password
+[05-11 13:39:14]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-11 15:00:56]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-11 16:12:45]: [FINE] egor_morgen34 logged in 88.130.58.226
+[05-11 17:23:44]: [FINE] egor_morgen34 logged in 88.130.58.226
+[05-12 00:48:46]: [FINE] sans2280448 logged in 84.188.101.46
+[05-12 01:52:26]: [FINE] sans2280448 logged in 84.188.101.46
+[05-12 02:34:51]: [FINE] sans2280448 logged in 84.188.101.46
+[05-12 02:37:29]: [FINE] sans2280448 logged in 84.188.101.46
+[05-12 02:39:51]: [FINE] sans2280448 logged in 84.188.101.46
+[05-12 10:54:33]: [FINE] egor_morgen34 logged in 88.130.58.160
+[05-12 12:55:35]: [FINE] thle_ logged in 185.204.71.20
+[05-12 15:02:34]: [FINE] dedvnytr logged in 185.44.147.88
+[05-12 18:11:32]: [FINE] egor_morgen34 logged in 88.130.58.160
+[05-12 20:29:17]: [FINE] egor_morgen34 logged in 88.130.58.160
+[05-12 21:27:47]: [FINE] egor_morgen34 logged in 88.130.58.160
+[05-12 22:13:25]: [FINE] dedvnytr logged in 185.44.147.88
+[05-13 18:04:18]: [FINE] sans2280448 logged in 84.188.101.46
+[05-13 19:26:59]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-14 21:56:53]: [FINE] thle_ logged in 185.204.71.20
+[05-15 16:51:35]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-15 17:45:59]: [FINE] Shizoid_777 used the wrong password
+[05-15 17:46:12]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-15 18:41:57]: [FINE] egor_morgen34 logged in 88.130.58.171
+[05-15 18:58:20]: [FINE] sans2280448 logged in 84.188.101.46
+[05-16 09:26:56]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-16 19:05:47]: [FINE] egor_morgen34 logged in 88.130.58.177
+[05-16 19:07:57]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-16 19:12:15]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-16 20:27:12]: [FINE] dedvnytr used the wrong password
+[05-16 20:27:16]: [FINE] dedvnytr logged in 149.62.204.107
+[05-16 20:28:45]: [FINE] dedvnytr logged in 149.62.204.107
+[05-18 16:06:04]: [FINE] egor_morgen34 logged in 88.130.57.226
+[05-18 20:46:13]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[05-19 18:36:54]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-19 18:41:12]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-19 18:42:19]: [INFO] SQLite Setup finished
+[05-19 18:42:19]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-19 18:42:19]: [INFO] Hooked successfully into Multiverse-Core
+[05-19 18:42:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-19 18:42:19]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-19 18:42:51]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-19 18:49:21]: [INFO] SQLite Setup finished
+[05-19 18:49:21]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-19 18:49:21]: [INFO] Hooked successfully into Multiverse-Core
+[05-19 18:49:21]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-19 18:49:21]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-19 18:51:12]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-19 23:35:28]: [FINE] egor_morgen34 logged in 88.130.58.241
+[05-20 19:23:33]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-20 19:48:33]: [FINE] dedvnytr logged in 79.142.200.7
+[05-20 20:29:10]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-20 22:05:47]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-21 12:42:58]: [FINE] thle_ logged in 77.48.13.106
+[05-21 15:53:48]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-22 17:36:41]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-23 11:40:21]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-23 12:45:58]: [FINE] egor_morgen34 logged in 88.130.57.241
+[05-23 21:48:19]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-23 22:02:05]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-24 14:28:55]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-24 15:23:03]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-24 15:23:30]: [FINE] egor_morgen34 logged in 88.130.58.179
+[05-24 16:29:25]: [FINE] Shizoid_777 used the wrong password
+[05-24 16:29:36]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-24 16:29:47]: [FINE] egor_morgen34 logged in 88.130.58.179
+[05-24 16:50:32]: [FINE] egor_morgen34 logged in 88.130.58.179
+[05-25 15:51:29]: [FINE] egor_morgen34 logged in 88.130.57.242
+[05-25 16:06:05]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-26 13:15:17]: [FINE] egor_morgen34 logged in 88.130.58.44
+[05-26 13:26:06]: [FINE] egor_morgen34 logged in 88.130.58.44
+[05-26 13:27:39]: [FINE] egor_morgen34 logged in 88.130.58.44
+[05-26 13:28:34]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-26 15:08:00]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-26 15:13:05]: [INFO] SQLite Setup finished
+[05-26 15:13:05]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-26 15:13:06]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-26 15:13:06]: [INFO] Hooked successfully into Multiverse-Core
+[05-26 15:13:06]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-26 15:13:57]: [FINE] SvaTshiK logged in 76.34.138.144
+[05-26 15:14:01]: [FINE] Shizoid_777 logged in 46.33.39.194
+[05-26 15:14:11]: [FINE] egor_morgen34 logged in 88.130.58.44
+[05-26 15:16:09]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-26 15:17:29]: [INFO] SQLite Setup finished
+[05-26 15:17:30]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-26 15:17:30]: [INFO] Hooked successfully into Multiverse-Core
+[05-26 15:17:30]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-26 15:17:31]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-26 15:18:09]: [FINE] egor_morgen34 logged in 88.130.58.44
+[05-26 15:19:02]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-02 12:39:32]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-02 12:41:18]: [FINE] egor_morgen34 logged in 88.130.57.48
+[06-02 12:57:14]: [FINE] egor_morgen34 logged in 88.130.57.48
+[06-02 15:04:24]: [FINE] egor_morgen34 logged in 88.130.57.48
+[06-02 15:14:08]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-04 19:06:40]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-05 16:00:11]: [FINE] egor_morgen34 logged in 88.130.57.235
+[06-05 16:49:18]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-05 19:26:57]: [FINE] egor_morgen34 logged in 88.130.57.235
+[06-06 19:13:39]: [FINE] egor_morgen34 used the wrong password
+[06-06 19:13:59]: [FINE] egor_morgen34 logged in 88.130.57.247
+[06-06 19:14:42]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-06 19:44:45]: [FINE] egor_morgen34 logged in 88.130.57.247
+[06-06 19:57:33]: [FINE] egor_morgen34 logged in 88.130.57.247
+[06-07 16:40:37]: [FINE] egor_morgen34 logged in 88.130.58.188
+[06-07 16:46:04]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-08 16:20:37]: [FINE] egor_morgen34 logged in 88.130.58.98
+[06-08 16:54:05]: [FINE] egor_morgen34 logged in 88.130.58.98
+[06-08 17:18:13]: [FINE] egor_morgen34 logged in 88.130.58.98
+[06-08 17:43:11]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-08 17:45:55]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-08 17:47:15]: [FINE] egor_morgen34 logged in 88.130.58.98
+[06-08 18:17:59]: [FINE] egor_morgen34 logged in 88.130.58.98
+[06-08 19:35:48]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-09 08:39:03]: [FINE] egor_morgen34 logged in 88.130.57.251
+[06-09 09:05:45]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-09 11:03:07]: [FINE] egor_morgen34 logged in 88.130.57.251
+[06-09 15:24:30]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-09 18:09:54]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-09 19:39:12]: [FINE] egor_morgen34 logged in 88.130.57.251
+[06-10 18:28:40]: [FINE] trewqaz registered 88.227.78.60
+[06-10 18:28:40]: [FINE] trewqaz logged in 88.227.78.60
+[06-10 18:53:35]: [FINE] trewqaz logged in 88.227.78.60
+[06-10 20:04:37]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-11 16:10:16]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-11 16:11:46]: [FINE] ZirkaYaskrava registered 70.106.22.207
+[06-11 16:11:46]: [FINE] ZirkaYaskrava logged in 70.106.22.207
+[06-11 17:28:53]: [FINE] ZirkaYaskrava logged in 70.106.22.207
+[06-11 17:47:59]: [FINE] ZirkaYaskrava logged in 70.106.22.207
+[06-12 09:25:55]: [FINE] trewqaz logged in 88.227.77.94
+[06-12 18:23:40]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-12 18:24:45]: [FINE] egor_morgen34 logged in 88.130.58.248
+[06-12 19:13:26]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-12 19:15:34]: [FINE] egor_morgen34 logged in 88.130.58.248
+[06-12 19:39:46]: [FINE] egor_morgen34 logged in 88.130.58.248
+[06-12 20:54:52]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-14 14:09:31]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-14 14:18:02]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-14 15:39:45]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-14 16:44:33]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-14 17:03:24]: [FINE] egor_morgen34 used the wrong password
+[06-14 17:03:39]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-14 17:39:07]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-14 18:07:03]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-14 18:14:37]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-14 20:01:57]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-14 20:08:37]: [FINE] s1mpleCSGOD used the wrong password
+[06-14 20:08:53]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-14 20:11:05]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-14 20:28:50]: [FINE] egor_morgen34 logged in 88.130.58.43
+[06-15 15:40:11]: [FINE] egor_morgen34 logged in 88.130.58.187
+[06-16 14:41:56]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-16 15:41:25]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-16 16:16:32]: [FINE] egor_morgen34 logged in 88.130.57.234
+[06-16 16:54:04]: [FINE] egor_morgen34 logged in 88.130.57.234
+[06-17 16:55:26]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-17 16:56:37]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-17 17:42:19]: [FINE] egor_morgen34 logged in 88.130.58.33
+[06-17 18:08:22]: [FINE] egor_morgen34 logged in 88.130.58.33
+[06-17 18:09:15]: [FINE] egor_morgen34 logged in 88.130.58.33
+[06-17 19:07:58]: [FINE] egor_morgen34 logged in 88.130.58.33
+[06-18 17:38:02]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-18 20:47:35]: [FINE] egor_morgen34 logged in 88.130.57.39
+[06-19 14:43:47]: [INFO] SQLite Setup finished
+[06-19 14:43:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-19 14:43:48]: [INFO] Hooked successfully into Multiverse-Core
+[06-19 14:43:48]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[06-19 14:43:56]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-19 14:43:56]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-19 14:43:56]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-19 14:43:56]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[06-19 14:45:07]: [FINE] egor_morgen34 logged in 88.130.57.35
+[06-19 14:48:35]: [FINE] sans2280448 logged in 80.187.124.201
+[06-19 15:11:53]: [FINE] egor_morgen34 logged in 88.130.57.35
+[06-19 15:34:30]: [FINE] egor_morgen34 logged in 88.130.57.35
+[06-19 15:41:25]: [FINE] sans2280448 logged in 80.187.124.201
+[06-19 16:16:18]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-19 16:34:11]: [FINE] sans2280448 logged in 80.187.124.201
+[06-19 16:53:52]: [FINE] luffy46c registered 172.59.33.70
+[06-19 16:53:52]: [FINE] luffy46c logged in 172.59.33.70
+[06-19 16:59:30]: [FINE] luffy46c logged in 172.59.33.70
+[06-19 17:19:19]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-19 17:30:33]: [FINE] egor_morgen34 logged in 88.130.57.35
+[06-19 17:49:51]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-19 19:14:43]: [INFO] SQLite Setup finished
+[06-19 19:14:44]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-19 19:14:44]: [INFO] Hooked successfully into Multiverse-Core
+[06-19 19:14:44]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[06-19 19:14:51]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-19 19:14:51]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-19 19:14:51]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-19 19:14:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[06-19 19:16:08]: [FINE] sans2280448 logged in 80.187.124.201
+[06-19 19:28:10]: [FINE] egor_morgen34 logged in 88.130.57.35
+[06-19 19:40:35]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-19 19:44:04]: [FINE] sans2280448 logged in 80.187.124.201
+[06-19 20:15:56]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-19 21:11:39]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-20 10:51:03]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-21 14:07:21]: [FINE] egor_morgen34 logged in 88.130.57.44
+[06-21 15:16:55]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-21 16:28:41]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-21 17:19:04]: [INFO] SQLite Setup finished
+[06-21 17:19:04]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-21 17:19:04]: [INFO] Hooked successfully into Multiverse-Core
+[06-21 17:19:04]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[06-21 17:19:12]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-21 17:19:12]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-21 17:19:12]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-21 17:19:12]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[06-21 17:21:13]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-21 17:22:32]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-21 17:29:27]: [FINE] egor_morgen34 logged in 88.130.57.44
+[06-21 18:49:01]: [FINE] egor_morgen34 logged in 88.130.57.44
+[06-21 19:01:01]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-21 19:04:42]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-21 19:06:15]: [FINE] egor_morgen34 logged in 88.130.57.44
+[06-21 19:07:25]: [FINE] Shizoid_777 logged in 46.33.39.194
+[06-21 19:26:00]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-22 09:13:54]: [FINE] egor_morgen34 logged in 88.130.58.244
+[06-22 17:38:00]: [FINE] luffy46c logged in 172.59.33.70
+[06-23 09:58:45]: [FINE] dedvnytr logged in 141.105.135.254
+[06-23 13:59:25]: [FINE] egor_morgen34 logged in 88.130.57.51
+[06-23 15:52:24]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-23 16:21:04]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[06-23 16:42:26]: [FINE] egor_morgen34 logged in 88.130.57.51
+[06-23 18:06:12]: [FINE] egor_morgen34 logged in 88.130.57.51
+[06-24 16:05:25]: [FINE] egor_morgen34 logged in 88.130.58.246
+[06-28 15:43:04]: [FINE] egor_morgen34 logged in 88.130.57.179
+[06-29 14:43:41]: [FINE] egor_morgen34 logged in 88.130.57.103
+[06-30 15:33:16]: [FINE] egor_morgen34 logged in 88.130.58.40
+[06-30 16:34:20]: [FINE] egor_morgen34 logged in 88.130.58.40
+[06-30 17:49:24]: [FINE] egor_morgen34 logged in 88.130.58.40
+[06-30 18:07:11]: [FINE] egor_morgen34 logged in 88.130.58.40
+[07-03 15:39:18]: [FINE] egor_morgen34 logged in 88.130.58.36
+[07-05 17:03:44]: [INFO] SQLite Setup finished
+[07-05 17:03:45]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-05 17:03:45]: [INFO] Hooked successfully into Multiverse-Core
+[07-05 17:03:45]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-05 17:03:55]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-05 17:03:55]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-05 17:03:55]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-05 17:03:55]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-05 17:10:02]: [INFO] SQLite Setup finished
+[07-05 17:10:03]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-05 17:10:03]: [INFO] Hooked successfully into Multiverse-Core
+[07-05 17:10:04]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-05 17:10:16]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-05 17:10:16]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-05 17:10:16]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-05 17:10:16]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-05 17:11:19]: [FINE] s1mpleCSGOD used the wrong password
+[07-05 17:11:37]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-05 17:23:25]: [FINE] egor_morgen34 logged in 88.130.57.168
+[07-05 17:35:33]: [INFO] SQLite Setup finished
+[07-05 17:35:34]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-05 17:35:34]: [INFO] Hooked successfully into Multiverse-Core
+[07-05 17:35:34]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-05 17:35:50]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-05 17:35:50]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-05 17:35:50]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-05 17:35:50]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-05 17:51:22]: [FINE] s1mpleCSGOD used the wrong password
+[07-05 17:51:32]: [FINE] s1mpleCSGOD used the wrong password
+[07-05 17:51:45]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-05 19:07:30]: [INFO] SQLite Setup finished
+[07-05 19:07:31]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-05 19:07:31]: [INFO] Hooked successfully into Multiverse-Core
+[07-05 19:07:32]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-05 19:07:50]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-05 19:07:50]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-05 19:07:50]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-05 19:07:50]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-05 19:10:17]: [INFO] SQLite Setup finished
+[07-05 19:10:18]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-05 19:10:18]: [INFO] Hooked successfully into Multiverse-Core
+[07-05 19:10:18]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-05 19:10:36]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-05 19:10:36]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-05 19:10:36]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-05 19:10:36]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-05 19:12:23]: [INFO] SQLite Setup finished
+[07-05 19:12:23]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-05 19:12:23]: [INFO] Hooked successfully into Multiverse-Core
+[07-05 19:12:24]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-05 19:12:47]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-05 19:12:47]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-05 19:12:47]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-05 19:12:47]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-05 19:14:42]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-05 21:49:01]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-06 14:42:04]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 14:51:20]: [INFO] SQLite Setup finished
+[07-06 14:51:21]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 14:51:21]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 14:51:22]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 14:51:44]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 14:51:44]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 14:51:44]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 14:51:44]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 14:53:03]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 20:15:02]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 20:55:45]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 20:55:58]: [INFO] SQLite Setup finished
+[07-06 20:55:58]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 20:55:59]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 20:55:59]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 20:56:07]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 20:56:07]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 20:56:07]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 20:56:07]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 20:56:18]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 21:00:48]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 21:00:59]: [INFO] SQLite Setup finished
+[07-06 21:00:59]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 21:00:59]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 21:00:59]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 21:01:05]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 21:01:05]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 21:01:05]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 21:01:05]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 21:01:14]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 21:46:52]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-06 22:10:31]: [INFO] SQLite Setup finished
+[07-06 22:10:31]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 22:10:31]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 22:10:32]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 22:10:51]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 22:10:51]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 22:10:51]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 22:10:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 22:11:21]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 22:12:43]: [FINE] s1mpleCSGOD used the wrong password
+[07-06 22:12:55]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-06 22:17:04]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 22:17:15]: [INFO] SQLite Setup finished
+[07-06 22:17:15]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 22:17:15]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 22:17:15]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 22:17:22]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 22:17:22]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 22:17:22]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 22:17:22]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 22:17:32]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 22:19:01]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 22:19:10]: [INFO] SQLite Setup finished
+[07-06 22:19:10]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 22:19:10]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 22:19:11]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 22:19:17]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 22:19:17]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 22:19:17]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 22:19:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 22:19:35]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 22:20:30]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 22:20:41]: [INFO] SQLite Setup finished
+[07-06 22:20:41]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 22:20:41]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 22:20:41]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 22:20:47]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 22:20:47]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 22:20:47]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 22:20:47]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 22:21:09]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 22:21:27]: [FINE] egor_morgen34 logged in 88.130.57.175
+[07-06 22:26:59]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-06 22:30:18]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 22:30:27]: [INFO] SQLite Setup finished
+[07-06 22:30:27]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 22:30:28]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 22:30:28]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 22:30:33]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 22:30:34]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 22:30:34]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 22:30:34]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 22:30:43]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 22:30:52]: [FINE] egor_morgen34 logged in 88.130.57.175
+[07-06 22:30:52]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-06 23:04:41]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 23:04:54]: [INFO] SQLite Setup finished
+[07-06 23:04:54]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 23:04:54]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 23:04:54]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 23:05:00]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 23:05:00]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 23:05:00]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 23:05:00]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 23:06:27]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-06 23:08:07]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-06 23:08:16]: [INFO] SQLite Setup finished
+[07-06 23:08:16]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-06 23:08:16]: [INFO] Hooked successfully into Multiverse-Core
+[07-06 23:08:16]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-06 23:08:22]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-06 23:08:22]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-06 23:08:22]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-06 23:08:22]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-06 23:08:29]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-06 23:13:41]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-07 01:23:06]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-07 01:23:13]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-07 01:31:56]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-07 13:32:20]: [FINE] egor_morgen34 logged in 88.130.58.250
+[07-07 15:36:16]: [FINE] egor_morgen34 logged in 88.130.58.250
+[07-07 17:13:24]: [FINE] SvaTshiK used the wrong password
+[07-07 17:13:32]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-07 17:35:16]: [INFO] SQLite Setup finished
+[07-07 17:35:16]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-07 17:35:16]: [INFO] Hooked successfully into Multiverse-Core
+[07-07 17:35:17]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-07 17:35:32]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-07 17:35:32]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-07 17:35:32]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-07 17:35:32]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-07 17:37:20]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-08 12:23:47]: [FINE] egor_morgen34 logged in 88.130.58.171
+[07-08 12:33:00]: [FINE] egor_morgen34 used the wrong password
+[07-08 12:33:16]: [FINE] egor_morgen34 logged in 88.130.58.171
+[07-08 16:00:09]: [FINE] egor_morgen34 logged in 88.130.58.171
+[07-08 16:37:44]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 16:38:10]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-08 16:50:36]: [INFO] SQLite Setup finished
+[07-08 16:50:36]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-08 16:50:36]: [INFO] Hooked successfully into Multiverse-Core
+[07-08 16:50:37]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-08 16:50:53]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-08 16:50:53]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-08 16:50:53]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-08 16:50:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-08 16:51:20]: [FINE] egor_morgen34 logged in 88.130.58.171
+[07-08 16:52:36]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-08 16:52:48]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 17:41:13]: [INFO] SQLite Setup finished
+[07-08 17:41:13]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-08 17:41:14]: [INFO] Hooked successfully into Multiverse-Core
+[07-08 17:41:14]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-08 17:41:34]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-08 17:41:34]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-08 17:41:34]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-08 17:41:34]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-08 17:42:45]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-08 17:44:30]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 17:45:31]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 17:52:36]: [FINE] egor_morgen34 logged in 88.130.58.171
+[07-08 17:58:04]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 18:32:21]: [INFO] SQLite Setup finished
+[07-08 18:32:21]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-08 18:32:21]: [INFO] Hooked successfully into Multiverse-Core
+[07-08 18:32:21]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-08 18:32:39]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-08 18:32:39]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-08 18:32:39]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-08 18:32:39]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-08 18:33:43]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 18:49:56]: [INFO] SQLite Setup finished
+[07-08 18:49:57]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-08 18:49:57]: [INFO] Hooked successfully into Multiverse-Core
+[07-08 18:49:57]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-08 18:50:16]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-08 18:50:16]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-08 18:50:16]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-08 18:50:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-08 18:52:30]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 19:07:00]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 19:24:14]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 19:27:48]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 19:38:01]: [FINE] Shizoid_777 logged in 93.190.138.195
+[07-08 19:40:11]: [FINE] egor_morgen34 used the wrong password
+[07-08 19:40:26]: [FINE] egor_morgen34 logged in 88.130.58.171
+[07-08 20:26:39]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-08 21:52:06]: [FINE] s1mpleCSGOD used the wrong password
+[07-08 21:52:18]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-09 11:56:14]: [FINE] egor_morgen34 logged in 88.130.57.120
+[07-09 19:40:46]: [FINE] egor_morgen34 logged in 88.130.57.120
+[07-10 14:12:02]: [FINE] egor_morgen34 logged in 88.130.58.174
+[07-10 16:42:32]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-10 16:43:59]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 16:58:16]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-10 17:05:28]: [INFO] SQLite Setup finished
+[07-10 17:05:28]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 17:05:28]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 17:05:28]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 17:05:43]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 17:05:43]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 17:05:43]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 17:05:43]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 17:07:18]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[07-10 17:08:56]: [INFO] SQLite Setup finished
+[07-10 17:08:56]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 17:08:56]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 17:08:57]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 17:09:13]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 17:09:13]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 17:09:13]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 17:09:13]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 17:18:15]: [INFO] SQLite Setup finished
+[07-10 17:18:16]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 17:18:16]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 17:18:16]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 17:18:34]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 17:18:34]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 17:18:34]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 17:18:34]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 17:21:41]: [INFO] SQLite Setup finished
+[07-10 17:21:41]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 17:21:41]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 17:21:41]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 17:21:55]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 17:21:55]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 17:21:55]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 17:21:56]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 17:56:06]: [INFO] SQLite Setup finished
+[07-10 17:56:06]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 17:56:06]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 17:56:07]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 17:56:25]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 17:56:25]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 17:56:25]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 17:56:28]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 18:03:57]: [INFO] SQLite Setup finished
+[07-10 18:03:57]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 18:03:57]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 18:03:57]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 18:04:12]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 18:04:12]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 18:04:12]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 18:04:12]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 18:05:30]: [FINE] egor_morgen34 logged in 88.130.58.174
+[07-10 18:05:32]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 19:08:13]: [FINE] SvaTshiK logged in 84.239.42.154
+[07-10 19:21:28]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-10 19:24:43]: [FINE] SvaTshiK logged in 76.34.138.144
+[07-10 19:28:30]: [FINE] sans2280448 logged in 80.187.124.15
+[07-10 19:32:21]: [FINE] egor_morgen34 logged in 88.130.58.174
+[07-10 19:45:56]: [INFO] SQLite Setup finished
+[07-10 19:45:57]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 19:45:57]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 19:45:57]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 19:46:16]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 19:46:16]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 19:46:16]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 19:46:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 19:48:40]: [INFO] SQLite Setup finished
+[07-10 19:48:40]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 19:48:40]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 19:48:40]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 19:48:56]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 19:48:56]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 19:48:56]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 19:48:56]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 20:40:17]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 20:46:52]: [FINE] egor_morgen34 logged in 88.130.58.174
+[07-10 21:20:52]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 21:28:34]: [INFO] SQLite Setup finished
+[07-10 21:28:34]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 21:28:34]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 21:28:34]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 21:28:51]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 21:28:51]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 21:28:51]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 21:28:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 21:31:01]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 21:34:43]: [INFO] SQLite Setup finished
+[07-10 21:34:43]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-10 21:34:43]: [INFO] Hooked successfully into Multiverse-Core
+[07-10 21:34:44]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-10 21:35:07]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-10 21:35:07]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-10 21:35:07]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-10 21:35:08]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-10 21:36:05]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 21:42:35]: [FINE] egor_morgen34 logged in 88.130.58.174
+[07-10 21:46:38]: [FINE] egor_morgen34 logged in 88.130.58.174
+[07-10 21:46:41]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 21:48:07]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-10 21:48:31]: [FINE] egor_morgen34 used the wrong password
+[07-10 21:48:49]: [FINE] egor_morgen34 used the wrong password
+[07-10 21:49:13]: [FINE] egor_morgen34 logged in 88.130.58.174
+[07-11 19:14:38]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-11 19:20:31]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-11 20:04:41]: [FINE] egor_morgen34 logged in 88.130.58.164
+[07-11 20:16:46]: [FINE] egor_morgen34 logged in 88.130.58.164
+[07-11 20:22:20]: [FINE] egor_morgen34 used the wrong password
+[07-11 20:22:31]: [FINE] egor_morgen34 logged in 88.130.58.164
+[07-11 20:25:53]: [INFO] SQLite Setup finished
+[07-11 20:25:55]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-11 20:25:55]: [INFO] Hooked successfully into Multiverse-Core
+[07-11 20:25:55]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-11 20:26:17]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-11 20:26:17]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-11 20:26:17]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-11 20:26:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-11 20:27:57]: [FINE] egor_morgen34 logged in 88.130.58.164
+[07-11 20:28:15]: [FINE] s1mpleCSGOD logged in 24.208.226.40
+[07-11 20:59:09]: [INFO] SQLite Setup finished
+[07-11 20:59:09]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-11 20:59:09]: [INFO] Hooked successfully into Multiverse-Core
+[07-11 20:59:10]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[07-11 20:59:30]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-11 20:59:30]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-11 20:59:30]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-11 20:59:30]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[07-11 21:00:49]: [FINE] s1mpleCSGOD logged in 24.208.226.40

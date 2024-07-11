@@ -1,0 +1,10 @@
+portals:
+  bedwarsshittyportal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: sans2280448
+    location: -112.0,200.0,620.0:-105.0,206.0,620.0
+    world: world

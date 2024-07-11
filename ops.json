@@ -12,14 +12,32 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "b40a35f0-4f75-3279-ac17-ccc0f3541726",
-    "name": "s1mpleCSGOD",
+    "uuid": "353a203e-156a-3dc9-a6e7-600c68f646de",
+    "name": "ZirkaYaskrava",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6bfbc975-1838-3c2d-939c-aec2b444379a",
+    "name": "egor_morgen34",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
     "uuid": "2b674d57-875c-3bc7-9f68-6d053dadf437",
     "name": "thle_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7695c3f1-5d28-3f98-a69f-3932481b056b",
+    "name": "Shizoid_777",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b40a35f0-4f75-3279-ac17-ccc0f3541726",
+    "name": "s1mpleCSGOD",
     "level": 4,
     "bypassesPlayerLimit": false
   },

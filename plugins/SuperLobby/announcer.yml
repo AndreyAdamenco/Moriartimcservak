@@ -1,6 +1,6 @@
 
 message:
-  enable: true
+  enable: false
   interval: 400
   list:
     message1:
@@ -24,7 +24,7 @@ message:
     - '&e&l>&e&l> &6https://www.spigotmc.org/resources/referralsystem.29709/'
     - '&6&l&m>-----------------------------------------<'
 titles:
-  enable: true
+  enable: false
   interval: 500
   list:
     titles1:
@@ -40,7 +40,7 @@ titles:
       title: '&bOfficial server.'
       subtitle: '&bmc.mundopixels.net'
 bossbar:
-  enable: true
+  enable: false
   interval: 200
   list:
     bossbar1:
@@ -54,7 +54,7 @@ bossbar:
       seconds: 10
       message: '&6&lMUNDO&f&lPIXELS &fNETWORK!'
 actionbar:
-  enable: true
+  enable: false
   interval: 300
   list:
     actionbar1:

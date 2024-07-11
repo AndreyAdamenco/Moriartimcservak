@@ -1,221 +1,614 @@
-[01:54:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:54:26] [ServerMain/INFO]: Loaded 1174 recipes
-[01:54:26] [ServerMain/INFO]: Loaded 1271 advancements
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: java.lang.NullPointerException: Cannot invoke "org.bukkit.Server.getTPS()" because "org.bukkit.Bukkit.server" is null
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at org.bukkit.Bukkit.getTPS(Bukkit.java:2357)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at com.destroystokyo.paper.gui.RAMDetails.update(RAMDetails.java:62)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at com.destroystokyo.paper.gui.GuiStatsComponent.lambda$new$0(GuiStatsComponent.java:27)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/javax.swing.Timer.fireActionPerformed(Timer.java:311)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/javax.swing.Timer$DoPostEvent.run(Timer.java:243)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:771)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:722)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:716)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:741)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-[01:54:28] [AWT-EventQueue-0/INFO]: [STDERR]: 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
-[01:54:28] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[01:54:28] [Server thread/WARN]: ****************************
-[01:54:28] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[01:54:28] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[01:54:28] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[01:54:28] [Server thread/WARN]: ****************************
-[01:54:28] [Server thread/INFO]: Loading properties
-[01:54:29] [Server thread/INFO]: This server is running Paper version git-Paper-485 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 862299b)
-[01:54:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:54:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:54:31] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[20:58:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:58:41] [ServerMain/INFO]: Loaded 1174 recipes
+[20:58:41] [ServerMain/INFO]: Loaded 1271 advancements
+[20:58:43] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:58:43] [Server thread/WARN]: ****************************
+[20:58:43] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[20:58:43] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[20:58:43] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[20:58:43] [Server thread/WARN]: ****************************
+[20:58:43] [Server thread/INFO]: Loading properties
+[20:58:43] [Server thread/INFO]: This server is running Paper version git-Paper-485 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 862299b)
+[20:58:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:58:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:58:44] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[01:54:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[01:54:32] [Server thread/INFO]: Default game type: SURVIVAL
-[01:54:32] [Server thread/INFO]: Generating keypair
-[01:54:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:54:32] [Server thread/INFO]: Using default channel type
-[01:54:32] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[01:54:32] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[01:54:34] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.1-SNAPSHOT-685
-[01:54:38] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
-[01:54:39] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@38669e7d]
-[01:54:39] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
-[01:54:39] [Server thread/INFO]: [SuperLobby] Loading server plugin SuperLobby v4.7.4
-[01:54:39] [Server thread/INFO]: [DriveBackupV2] Loading server plugin DriveBackupV2 v1.6.3
-[01:54:39] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
-[01:54:39] [Server thread/INFO]: [AuthMeVelocity] Loading server plugin AuthMeVelocity v4.1.1
-[01:54:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:54:39] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.1-SNAPSHOT-685
-[01:54:40] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
-[01:54:40] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[01:54:40] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[01:54:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[01:54:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[01:54:41] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightFaweAdapter as the Bukkit adapter
-[01:54:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:54:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:54:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:54:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:54:42] [Server thread/INFO]: Preparing level "world"
-[01:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:54:43] [Server thread/INFO]: Time elapsed: 350 ms
-[01:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:54:43] [Server thread/INFO]: Time elapsed: 247 ms
-[01:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:54:44] [Server thread/INFO]: Time elapsed: 41 ms
-[01:54:44] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
-[01:54:44] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[01:54:44] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[01:54:45] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
-[01:54:45] [Server thread/INFO]: [SuperLobby] Enabling SuperLobby v4.7.4
-[01:54:45] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]    _____                       _           _     _           
-[01:54:45] [Server thread/WARN]: Nag author(s): '[PedroJM96, PedroJM96]' of 'SuperLobby v4.7.4' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]   / ____|                     | |         | |   | |          
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]  | (___  _   _ _ __   ___ _ __| |     ___ | |__ | |__  _   _ 
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]   \___ \| | | | '_ \ / _ \ '__| |    / _ \| '_ \| '_ \| | | |
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]   ____) | |_| | |_) |  __/ |  | |___| (_) | |_) | |_) | |_| |
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]  |_____/ \__,_| .__/ \___|_|  |______\___/|_.__/|_.__/ \__, |
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]               | |                                       __/ |
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]               |_|                                      |___/ 
-[01:54:45] [Server thread/INFO]: [SuperLobby] [STDOUT]     
-[01:54:45] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-[01:54:45] [Server thread/INFO]: [SuperLobby] Deluxe Version: V4.7.4
-[01:54:45] [Server thread/INFO]: [SuperLobby] Plugin Create by PedroJM96.
-[01:54:45] [Server thread/INFO]: [SuperLobby] Loading Libraries...
-[01:54:45] [Server thread/INFO]: [SuperLobby] Downloading librarie commons-lang-commons-lang-2.6
-[01:54:46] [Server thread/INFO]: [SuperLobby] Librarie 'commons-lang-commons-lang-2.6' successfully downloaded.
-[01:54:46] [Server thread/INFO]: [SuperLobby] commons-lang-commons-lang-2.6 library loaded successfully.
-[01:54:46] [Server thread/INFO]: [SuperLobby] Downloading librarie commons-codec-commons-codec-1.15
-[01:54:46] [Server thread/INFO]: [SuperLobby] Librarie 'commons-codec-commons-codec-1.15' successfully downloaded.
-[01:54:46] [Server thread/INFO]: [SuperLobby] commons-codec-commons-codec-1.15 library loaded successfully.
-[01:54:46] [Server thread/INFO]: [SuperLobby] Downloading librarie com.google.code.gson-gson-2.9.0
-[01:54:46] [Server thread/INFO]: [SuperLobby] Librarie 'com.google.code.gson-gson-2.9.0' successfully downloaded.
-[01:54:46] [Server thread/INFO]: [SuperLobby] com.google.code.gson-gson-2.9.0 library loaded successfully.
-[01:54:47] [Thread-7/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 14 build(s) out of date.
-You are running build 741, the latest version is build 755.
+[20:58:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[20:58:46] [Server thread/INFO]: Default game type: SURVIVAL
+[20:58:46] [Server thread/INFO]: Generating keypair
+[20:58:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:58:46] [Server thread/INFO]: Using default channel type
+[20:58:46] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[20:58:46] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:58:47] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins\MiniPlaceholders-Player-Expansion-1.2.0.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [MiniPlaceholders]. Please download and install these plugins to run 'MiniPlaceholders-Player-Expansion'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-485]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-485]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.4.jar:git-Paper-485]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.loadPlugins(CraftServer.java:507) ~[paper-1.20.4.jar:git-Paper-485]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:274) ~[paper-1.20.4.jar:git-Paper-485]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-485]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-485]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+[20:58:47] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins\SBA-1.5.5.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [BedWars]. Please download and install these plugins to run 'SBA'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-485]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-485]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.4.jar:git-Paper-485]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.loadPlugins(CraftServer.java:507) ~[paper-1.20.4.jar:git-Paper-485]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:274) ~[paper-1.20.4.jar:git-Paper-485]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-485]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-485]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+[20:58:48] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.1
+[20:58:48] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.1 is now loaded. Registering protocol transformers and injecting...
+[20:58:51] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:58:51] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[20:58:51] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:58:52] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[20:58:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:58:54] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[20:58:54] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.12
+[20:58:54] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[20:58:57] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@77eb025c]
+[20:58:57] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.1-SNAPSHOT-685
+[20:58:59] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.1
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Loading server plugin LastLoginAPI v1.7.4
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Loading libraries of LastLoginAPI v1.7.4, this may take a while
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jar-relocator
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for asm
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for asm-commons
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for gson
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jdbi3-core
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for geantyref
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for caffeine
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jdbi3-stringtemplate4
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for ST4
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for antlr-runtime
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for jdbi3-sqlobject
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for slf4j-api
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for slf4j-simple
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for HikariCP
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for mariadb-java-client
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for mysql-connector-j
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for postgresql
+[20:58:59] [Server thread/INFO]: [LastLoginAPI] Verifying checksum for h2
+[20:58:59] [Server thread/INFO]: [Multiverse-Portals] Loading server plugin Multiverse-Portals v4.2.3
+[20:58:59] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-beta2-b2453
+[20:58:59] [Server thread/INFO]: [ServersNPC] Loading server plugin ServersNPC v4.6
+[20:58:59] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.1
+[20:58:59] [Server thread/INFO]: [Skywars] Loading server plugin Skywars v5.6.29
+[20:58:59] [Server thread/INFO]: [Parties] Loading server plugin Parties v3.2.14
+[20:58:59] [Server thread/INFO]: [Parties] Loading libraries of Parties v3.2.14, this may take a while
+[20:58:59] [Server thread/INFO]: [Parties] Verifying checksum for jar-relocator
+[20:58:59] [Server thread/INFO]: [Parties] Verifying checksum for asm
+[20:58:59] [Server thread/INFO]: [Parties] Verifying checksum for asm-commons
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for gson
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-core
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for geantyref
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for caffeine
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-stringtemplate4
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for ST4
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for antlr-runtime
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for jdbi3-sqlobject
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for slf4j-api
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for slf4j-simple
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for HikariCP
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for mariadb-java-client
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for mysql-connector-j
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for postgresql
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for h2
+[20:59:00] [Server thread/INFO]: [Parties] Verifying checksum for exp4j
+[20:59:00] [Server thread/INFO]: [Multiverse-SignPortals] Loading server plugin Multiverse-SignPortals v4.2.2
+[20:59:00] [Server thread/INFO]: [Multiverse-NetherPortals] Loading server plugin Multiverse-NetherPortals v4.2.3
+[20:59:00] [Server thread/INFO]: [Multiverse-Inventories] Loading server plugin Multiverse-Inventories v4.2.6
+[20:59:00] [Server thread/INFO]: [KitPvP] Loading server plugin KitPvP v2.2.3
+[20:59:00] [Server thread/INFO]: [DriveBackupV2] Loading server plugin DriveBackupV2 v1.6.3
+[20:59:00] [Server thread/INFO]: [DeluxeMenus] Loading server plugin DeluxeMenus v1.14.0-Release
+[20:59:00] [Server thread/INFO]: [DeluxeMenus] NMS hook has been setup successfully!
+[20:59:00] [Server thread/INFO]: [DeluxeHub] Loading server plugin DeluxeHub v3.5.5
+[20:59:00] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[20:59:00] [Server thread/INFO]: [BetterRTP] Loading server plugin BetterRTP v3.6.13
+[20:59:00] [Server thread/INFO]: [AuthMeVelocity] Loading server plugin AuthMeVelocity v4.1.1
+[20:59:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:59:00] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
+[20:59:00] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[20:59:00] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[20:59:00] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:59:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:59:00] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightFaweAdapter as the Bukkit adapter
+[20:59:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.1-SNAPSHOT-685
+[20:59:02] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.1
+[20:59:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:59:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:59:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:59:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:59:02] [Server thread/INFO]: Preparing level "world"
+[20:59:04] [Thread-7/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 105 build(s) out of date.
+You are running build 741, the latest version is build 846.
 Update at https://www.spigotmc.org/resources/13932/
-[01:54:47] [Server thread/INFO]: [SuperLobby] Loading configuration...
-[01:54:47] [Server thread/INFO]: [SuperLobby] The config.yml file does not exist yet.
-[01:54:47] [Server thread/INFO]: [SuperLobby] Creating and loading file config.yml.
-[01:54:47] [Server thread/INFO]: [SuperLobby] config.yml  create.
-[01:54:47] [Server thread/INFO]: [SuperLobby] The messages_EN.yml file does not exist yet.
-[01:54:47] [Server thread/INFO]: [SuperLobby] Creating and loading file messages_EN.yml.
-[01:54:47] [Server thread/INFO]: [SuperLobby] messages_EN.yml  create.
-[01:54:47] [Server thread/INFO]: [SuperLobby] The spawn.yml file does not exist yet.
-[01:54:47] [Server thread/INFO]: [SuperLobby] Creating and loading file spawn.yml.
-[01:54:47] [Server thread/INFO]: [SuperLobby] spawn.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] The chat.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file chat.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] chat.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] The infocommands.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file infocommands.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] infocommands.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /info
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /youtubers
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /socialpages
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /rewards
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /rules
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register info command /help
-[01:54:48] [Server thread/INFO]: [SuperLobby] The customevents.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file customevents.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] customevents.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] The items.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file items.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] items.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Lobby-Item: The item menu has an invalid item Material: SIGN.
-[01:54:48] [Server thread/INFO]: [SuperLobby] The menus.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file menus.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] menus.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /menu
-[01:54:48] [Server thread/INFO]: [SuperLobby] Menu-Item: The item survival has an invalid item Material: GRASS.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /game
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /profile
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register command menu /shop
-[01:54:48] [Server thread/INFO]: [SuperLobby] The board.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file board.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] board.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] The announcer.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file announcer.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] announcer.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] The firstjoin.yml file does not exist yet.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Creating and loading file firstjoin.yml.
-[01:54:48] [Server thread/INFO]: [SuperLobby] firstjoin.yml  create.
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register commands...
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register main command superlobby
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command setspawn
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command setspawnpermission
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command setspawnradius
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command remspawn
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command reload
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command help
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register sub-command openmenu
-[01:54:48] [Server thread/INFO]: [SuperLobby] Register command  /spawn
-[01:54:48] [Server thread/INFO]: [SuperLobby] Achievements are now hidden.
-[01:54:48] [Server thread/INFO]: [SuperLobby] A total of 4 menus were loaded.
-[01:54:48] [Server thread/INFO]: -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-[01:54:48] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.6.3
-[01:54:49] [Server thread/INFO]: [DriveBackupV2] Config loaded!
-[01:54:49] [Server thread/INFO]: [DriveBackupV2] Scheduling a backup to run every 60 minutes
-[01:54:49] [Server thread/INFO]: [DriveBackupV2] Metrics started
-[01:54:49] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
-[01:54:49] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
-[01:54:49] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[01:54:49] [Server thread/INFO]: --------------------
-[01:54:49] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[01:54:49] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[01:54:49] [Server thread/INFO]: --------------------
-[01:54:49] [Server thread/INFO]: [AuthMeVelocity] Enabling AuthMeVelocity v4.1.1
-[01:54:49] [Server thread/INFO]: [AuthMeVelocity] AuthMeVelocity enabled
-[01:54:50] [Server thread/INFO]: Running delayed init tasks
-[01:54:50] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[01:54:50] [Server thread/INFO]: Done (21.929s)! For help, type "help"
-[01:54:50] [Server thread/INFO]: Timings Reset
-[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
-[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
-[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
-[01:54:51] [Craft Scheduler Thread - 0 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for updates...
-[01:54:51] [Craft Scheduler Thread - 3 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (The system cannot find the file specified)
-[02:04:22] [Server thread/INFO]: Stopping server
-[02:04:22] [Server thread/INFO]: [AuthMeVelocity] Disabling AuthMeVelocity v4.1.1
-[02:04:22] [Server thread/INFO]: [AuthMeVelocity] AuthMeVelocity disabled
-[02:04:22] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
-[02:04:22] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
-[02:04:22] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
-[02:04:22] [Server thread/INFO]: [DriveBackupV2] Disabling DriveBackupV2 v1.6.3
-[02:04:22] [Server thread/INFO]: [DriveBackupV2] Stopping plugin!
-[02:04:22] [Server thread/INFO]: [SuperLobby] Disabling SuperLobby v4.7.4
-[02:04:22] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-beta2-b2453
-[02:04:22] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
-[02:04:22] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
-[02:04:22] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-741;a366122
-[02:04:22] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[02:04:22] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.1-SNAPSHOT-685
-[02:04:22] [Server thread/INFO]: Saving players
-[02:04:22] [Server thread/INFO]: Saving worlds
-[02:04:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:04:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:04:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:04:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world' in 0.04s
-[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 11 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
-[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:04:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:04:23] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:04:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:04:23] [Server thread/INFO]: Flushing Chunk IO
-[02:04:23] [Server thread/INFO]: Closing Thread Pool
-[02:04:23] [Server thread/INFO]: Closing Server
+[20:59:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:59:04] [Server thread/INFO]: Time elapsed: 280 ms
+[20:59:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:59:04] [Server thread/INFO]: Time elapsed: 71 ms
+[20:59:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:59:04] [Server thread/INFO]: Time elapsed: 64 ms
+[20:59:04] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.1
+[20:59:04] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[20:59:04] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[20:59:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:59:04] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.12
+[20:59:04] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.12" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[20:59:04] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[20:59:05] [Server thread/INFO]: Preparing start region for dimension minecraft:mine
+[20:59:05] [Server thread/INFO]: Time elapsed: 42 ms
+[20:59:05] [Server thread/INFO]: Preparing start region for dimension minecraft:pizdamiregor
+[20:59:05] [Server thread/INFO]: Time elapsed: 53 ms
+[20:59:05] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: bedwarsminzurki
+[20:59:05] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[20:59:06] [Server thread/INFO]: Preparing start region for dimension minecraft:game
+[20:59:06] [Server thread/INFO]: Time elapsed: 26 ms
+[20:59:06] [Server thread/INFO]: Preparing start region for dimension minecraft:world2
+[20:59:06] [Server thread/INFO]: Time elapsed: 28 ms
+[20:59:06] [Server thread/INFO]: Preparing start region for dimension minecraft:test
+[20:59:06] [Server thread/INFO]: Time elapsed: 26 ms
+[20:59:06] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Egor
+[20:59:06] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[20:59:06] [Server thread/INFO]: Preparing start region for dimension minecraft:japan
+[20:59:06] [Server thread/INFO]: Time elapsed: 26 ms
+[20:59:06] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: bedwarslobby1
+[20:59:06] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[20:59:06] [Server thread/INFO]: Preparing start region for dimension minecraft:skywar_pirate
+[20:59:06] [Server thread/INFO]: Time elapsed: 28 ms
+[20:59:06] [Server thread/INFO]: Preparing start region for dimension minecraft:skywar_stone
+[20:59:06] [Server thread/INFO]: Time elapsed: 27 ms
+[20:59:07] [Server thread/INFO]: Preparing start region for dimension minecraft:ohio
+[20:59:07] [Server thread/INFO]: Time elapsed: 27 ms
+[20:59:07] [Server thread/INFO]: Preparing start region for dimension minecraft:skywars_race
+[20:59:07] [Server thread/INFO]: Time elapsed: 23 ms
+[20:59:07] [Server thread/INFO]: [Multiverse-Core] 13 - World(s) loaded.
+[20:59:07] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[20:59:07] [Server thread/INFO]: [Multiverse-Core] Version 4.3.12 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[20:59:07] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.1
+[20:59:07] [Server thread/INFO]: [LastLoginAPI] Enabling LastLoginAPI v1.7.4
+[20:59:07] [Server thread/INFO]: [LastLoginAPI] Initializing LastLoginAPI v1.7.4
+[20:59:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: lastloginapi [1.7.4]
+[20:59:08] [Server thread/INFO]: [LastLoginAPI] Hooked into PlaceholderAPI
+[20:59:08] [Server thread/INFO]: [LastLoginAPI] LastLoginAPI v1.7.4 enabled
+[20:59:08] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.3
+[20:59:08] [Server thread/INFO]: [Multiverse-Portals] 1 - Portals(s) loaded
+[20:59:09] [Server thread/INFO]: [Multiverse-Portals] Found FastAsyncWorldEdit. Using it for selections.
+[20:59:09] [Server thread/INFO]: [Multiverse-Portals 4.2.3]  Enabled - By Rigby and fernferret
+[20:59:09] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-beta2-b2453
+[20:59:09] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[20:59:09] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[20:59:09] [Server thread/INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[20:59:10] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[20:59:10] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v4.6
+[20:59:11] [Server thread/INFO]: [Skywars] Enabling Skywars v5.6.29
+[20:59:11] [Server thread/WARN]: [Skywars] ===================
+It seems like we have not validated this newer version of Spigot/Bukkit (v1_20_R3).
+We will try to load the plugin with the latest supported version: v1_20_R2, with handler: v1_19_R1.
+Some features may not work as intended. However, this should be relatively stable on 1.19+
+If you experience any issues, please join our Discord server (https://www.gcnt.net/discord) and wait for an official release with proper support.
+===================
+[20:59:11] [Server thread/INFO]: [Skywars] Loaded support for NMS server version v1_20_R3 using handler: v1_19_R1.
+[20:59:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: swr [5.6.29]
+[20:59:11] [Server thread/INFO]: [Skywars] Using Bukkit World Manager
+[20:59:11] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:59:22] [Server thread/INFO]: [Skywars] Maps directory is missing or no Maps were found!
+[20:59:22] [Server thread/INFO]: [Parties] Enabling Parties v3.2.14
+[20:59:22] [Server thread/INFO]: [Parties] Initializing Parties v3.2.14
+[20:59:23] [Server thread/INFO]: [Parties] Hooked into LastLoginAPI
+[20:59:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: parties [3.2.14]
+[20:59:23] [Server thread/INFO]: [Parties] Hooked into PlaceholderAPI
+[20:59:24] [Server thread/INFO]: [Parties] Parties v3.2.14 enabled
+[20:59:24] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v4.2.2
+[20:59:24] [Server thread/INFO]: [Multiverse-SignPortals 4.2.2]  Enabled - By Rigby and fernferret
+[20:59:24] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v4.2.3
+[20:59:24] [Server thread/INFO]: [Multiverse-NetherPortals 4.2.3]  Enabled - By Rigby and fernferret
+[20:59:24] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v4.2.6
+[20:59:24] [Server thread/INFO]: [Multiverse-Inventories 4.2.6] enabled.
+[20:59:24] [Server thread/INFO]: [KitPvP] Enabling KitPvP v2.2.3
+[20:59:24] [Server thread/INFO]: [KIT-PVP] Enabling KitPvP version 2.2.3...
+[20:59:24] [Server thread/INFO]: [KIT-PVP] Loading configuration files...
+[20:59:24] [Server thread/INFO]: [KIT-PVP] Loading kit files...
+[20:59:24] [Server thread/INFO]: [KIT-PVP] Establishing database connection...
+[20:59:25] [parties-pool-0/INFO]: [Parties] Parties v3.2.14 found a new version: 3.2.15
+[20:59:25] [Server thread/INFO]: [KIT-PVP] Hooking into PlaceholderAPI...
+[20:59:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: kitpvp [1.0.0]
+[20:59:25] [Server thread/INFO]: [KIT-PVP] Done!
+[20:59:25] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.6.3
+[20:59:26] [Server thread/INFO]: [DriveBackupV2] Config loaded!
+[20:59:26] [Server thread/INFO]: [DriveBackupV2] Scheduling a backup to run every 60 minutes
+[20:59:26] [Server thread/INFO]: [DriveBackupV2] Metrics started
+[20:59:26] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.0-Release
+[20:59:26] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
+[20:59:27] [Server thread/ERROR]: [DeluxeMenus] Detected invalid configuration in file: main_menu.yml
+[20:59:27] [Server thread/WARN]: [DeluxeMenus] Menu: main_menu in file: main_menu.yml not loaded.
+[20:59:27] [Server thread/INFO]: [DeluxeMenus] 5 GUI menus loaded!
+[20:59:27] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
+[20:59:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: deluxemenus [1.14.0-Release]
+[20:59:27] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[20:59:27] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[20:59:27] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[20:59:27] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[20:59:27] [Server thread/INFO]: [DeluxeHub] 
+[20:59:27] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[20:59:27] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[20:59:27] [Server thread/INFO]: [DeluxeHub] 
+[20:59:27] [Server thread/INFO]: [DeluxeHub]  Hooked into PlaceholderAPI
+[20:59:27] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[20:59:27] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R3! Trying to find NMS support
+[20:59:27] [Server thread/WARN]: [NBTAPI] [NBTAPI] This Server-Version(v1_20_R3) is not supported by this NBT-API Version(2.12.0) located in DeluxeHub. The NBT-API will try to work as good as it can! Some functions may not work!
+[20:59:27] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DeluxeHub' to create a bStats instance!
+[20:59:28] [Server thread/INFO]: [DeluxeHub] Loaded 17 plugin modules.
+[20:59:28] [Server thread/INFO]: [DeluxeHub] 
+[20:59:28] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 873ms
+[20:59:28] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[20:59:28] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[20:59:28] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[20:59:28] [Server thread/INFO]: --------------------
+[20:59:28] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[20:59:28] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[20:59:28] [Server thread/INFO]: --------------------
+[20:59:28] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.6.13
+[20:59:29] [Server thread/INFO]: [BetterRTP] Cooldown = 600
+[20:59:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterrtp [3.6.13]
+[20:59:29] [Server thread/INFO]: [AuthMeVelocity] Enabling AuthMeVelocity v4.1.1
+[20:59:29] [Server thread/INFO]: [AuthMeVelocity] AuthMeVelocity enabled
+[20:59:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:59:30] [Server thread/INFO]: Running delayed init tasks
+[20:59:30] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[20:59:30] [Server thread/INFO]: [Multiverse-Inventories] First run!
+[20:59:30] [Server thread/INFO]: Done (47.057s)! For help, type "help"
+[20:59:30] [Server thread/INFO]: Timings Reset
+[20:59:30] [Craft Scheduler Thread - 14 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for updates...
+[20:59:30] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[20:59:30] [Craft Scheduler Thread - 6 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[20:59:30] [Craft Scheduler Thread - 9 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[20:59:30] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[20:59:30] [Craft Scheduler Thread - 9 - AuthMe/INFO]: [AuthMe] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[20:59:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:59:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.1]
+[20:59:30] [Server thread/INFO]: 2 placeholder hook(s) registered! 1 placeholder hook(s) have an update available.
+[20:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[20:59:33] [Thread-14/INFO]: --------------------
+[20:59:33] [Thread-14/INFO]: [CoreProtect] Version 22.4 is now available.
+[20:59:33] [Thread-14/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[20:59:33] [Thread-14/INFO]: --------------------
+[20:59:33] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.11.6) is available at:
+[20:59:33] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[20:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9465ms or 189 ticks behind
+[21:00:33] [User Authenticator #0/INFO]: UUID of player s1mpleCSGOD is b40a35f0-4f75-3279-ac17-ccc0f3541726
+[21:00:34] [pool-43-thread-1/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.Location org.bukkit.Location.deserialize(java.util.Map)' of class org.bukkit.Location for deserialization
+java.lang.IllegalArgumentException: unknown world
+	at org.bukkit.Location.deserialize(Location.java:1132) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserializeViaMethod(ConfigurationSerialization.java:87) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserialize(ConfigurationSerialization.java:129) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserializeObject(ConfigurationSerialization.java:209) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.util.SerializationHelper.deserialize(SerializationHelper.java:125) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.util.SerializationHelper.deserialize(SerializationHelper.java:116) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.util.SerializationHelper.deserialize(SerializationHelper.java:116) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.convertMapsToSections(JsonConfiguration.java:75) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.loadFromString(JsonConfiguration.java:68) ~[multiverse-inventories-4.2.6.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.loadConfiguration(JsonConfiguration.java:110) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.loadConfiguration(JsonConfiguration.java:131) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.FlatFileProfileDataSource.getConfigHandleNow(FlatFileProfileDataSource.java:96) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.FlatFileProfileDataSource$ConfigLoader.call(FlatFileProfileDataSource.java:108) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.FlatFileProfileDataSource$ConfigLoader.call(FlatFileProfileDataSource.java:99) ~[multiverse-inventories-4.2.6.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+[21:00:34] [pool-43-thread-1/ERROR]: [org.bukkit.configuration.serialization.ConfigurationSerialization] Could not call method 'public static org.bukkit.Location org.bukkit.Location.deserialize(java.util.Map)' of class org.bukkit.Location for deserialization
+java.lang.IllegalArgumentException: unknown world
+	at org.bukkit.Location.deserialize(Location.java:1132) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserializeViaMethod(ConfigurationSerialization.java:87) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserialize(ConfigurationSerialization.java:129) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserializeObject(ConfigurationSerialization.java:209) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.util.SerializationHelper.deserialize(SerializationHelper.java:125) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.util.SerializationHelper.deserialize(SerializationHelper.java:116) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.util.SerializationHelper.deserialize(SerializationHelper.java:116) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.convertMapsToSections(JsonConfiguration.java:75) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.loadFromString(JsonConfiguration.java:68) ~[multiverse-inventories-4.2.6.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.20.4-R0.1-SNAPSHOT.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.loadConfiguration(JsonConfiguration.java:110) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.utils.configuration.json.JsonConfiguration.loadConfiguration(JsonConfiguration.java:131) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.FlatFileProfileDataSource.getConfigHandleNow(FlatFileProfileDataSource.java:96) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.FlatFileProfileDataSource.processProfileWrite(FlatFileProfileDataSource.java:200) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.FlatFileProfileDataSource$FileWriter.call(FlatFileProfileDataSource.java:191) ~[multiverse-inventories-4.2.6.jar:?]
+	at com.onarandombox.multiverseinventories.FlatFileProfileDataSource$FileWriter.call(FlatFileProfileDataSource.java:182) ~[multiverse-inventories-4.2.6.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:842) ~[?:?]
+[21:00:34] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:00:34] [Server thread/INFO]: [DriveBackupV2] Enabling automatic backups
+[21:00:34] [Server thread/INFO]: + s1mpleCSGOD Connected
+[21:00:34] [Server thread/INFO]: s1mpleCSGOD[/24.208.226.40:54728] logged in with entity id 35 at ([world]-112.0, 201.0, 660.0)
+[21:00:34] [Craft Scheduler Thread - 20 - Skywars/WARN]: Now saving stats of player s1mpleCSGOD
+[21:00:37] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:00:38] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:00:49] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] s1mpleCSGOD logged in 24.208.226.40
+[21:00:49] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:01] [Server thread/INFO]: s1mpleCSGOD issued server command: /mvtp lab
+[21:01:14] [Server thread/INFO]: s1mpleCSGOD issued server command: /mv import lab
+[21:01:46] [Server thread/INFO]: s1mpleCSGOD issued server command: /mv import lab normal
+[21:01:46] [Server thread/INFO]: s1mpleCSGOD: Starting import of world 'lab'...
+[21:01:46] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'lab' - Env: NORMAL - Type: null
+[21:01:46] [Server thread/INFO]: Preparing start region for dimension minecraft:lab
+[21:01:46] [Server thread/INFO]: Time elapsed: 19 ms
+[21:01:47] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[21:01:47] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: -60 Z: 0 P: 0 Y: 0 
+[21:01:47] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'lab' is located at: lab:1.50,-64.00,0.50:0.00:0.00
+[21:01:47] [Server thread/INFO]: s1mpleCSGOD: Complete!
+[21:01:52] [Server thread/INFO]: s1mpleCSGOD issued server command: /mvtp lab
+[21:01:52] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:52] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:52] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:54] [Server thread/INFO]: s1mpleCSGOD issued server command: /gamemode creative
+[21:01:55] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:55] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:55] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:55] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:56] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:56] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:56] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:56] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:01:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:01] [User Authenticator #1/INFO]: UUID of player egor_morgen34 is 6bfbc975-1838-3c2d-939c-aec2b444379a
+[21:02:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:01] [Server thread/INFO]: + egor_morgen34 Connected
+[21:02:01] [Server thread/INFO]: egor_morgen34[/88.130.58.164:17482] logged in with entity id 44 at ([world]-112.0, 201.0, 660.0)
+[21:02:02] [Craft Scheduler Thread - 23 - Skywars/WARN]: Now saving stats of player egor_morgen34
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:12] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:12] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:12] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:13] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:16] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:16] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:16] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:16] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:16] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:16] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:30] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:30] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:30] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:30] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:30] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:30] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:02:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:09] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:31] [Server thread/INFO]: egor_morgen34 lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[21:03:31] [Server thread/WARN]: Now saving stats of player egor_morgen34
+[21:03:31] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: - egor_morgen34 Disconnected
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:32] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:57] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:58] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:03:59] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:01] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:02] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:02] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:02] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:02] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:02] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:02] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:03] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:03] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:03] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:05] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:08] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:08] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:08] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:08] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:08] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:08] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:10] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:10] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:10] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:11] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:14] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:14] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:14] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:14] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:14] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:14] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:15] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:18] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:50] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:50] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:50] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:50] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:04:51] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:06:17] [Server thread/INFO]: s1mpleCSGOD lost connection: Disconnected
+[21:06:17] [Server thread/WARN]: Now saving stats of player s1mpleCSGOD
+[21:06:17] [Server thread/INFO]: [KIT-PVP] There was no spawn found, please set it using /kp addspawn.
+[21:06:17] [Server thread/INFO]: - s1mpleCSGOD Disconnected
+[21:07:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5284ms or 105 ticks behind

@@ -1,0 +1,58 @@
+2024-07-11 20:59:29 [INFO]: Loading Overrides...
+2024-07-11 20:59:29 [INFO]: Loading World Types...
+2024-07-11 20:59:29 [INFO]: - World Type for 'world' set to 'NORMAL'
+2024-07-11 20:59:29 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2024-07-11 20:59:29 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2024-07-11 20:59:29 [INFO]: Loading Defaults...
+2024-07-11 20:59:29 [INFO]: Loading Custom Worlds...
+2024-07-11 20:59:29 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2024-07-11 20:59:29 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-07-11 20:59:29 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2024-07-11 20:59:30 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:world configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database QUEUE:Queue configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:mine configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:pizdamiregor configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:game configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:world2 configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:test configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:Japan configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:Skywar_Pirate configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:Skywar_stone configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:Ohio configured and loaded!
+2024-07-11 20:59:31 [INFO]: Database COOLDOWN:Skywars_race configured and loaded!
+2024-07-11 20:59:33 [INFO]: Attempting to queue up some more safe locations...
+2024-07-11 20:59:47 [WARNING]: Seems like the world `pizdamiregor` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- pizdamiregor: NETHER`
+2024-07-11 21:00:47 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:00:47 [WARNING]: Seems like the world `game` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- game: NETHER`
+2024-07-11 21:01:42 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:01:51 [INFO]: New world `lab` detected! Reloaded Databases!
+2024-07-11 21:01:51 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:world configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:mine configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:pizdamiregor configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:game configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:world2 configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:test configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:Japan configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:Skywar_Pirate configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:Skywar_stone configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:Ohio configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:Skywars_race configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database COOLDOWN:lab configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database QUEUE:Queue configured and loaded!
+2024-07-11 21:01:51 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-07-11 21:01:59 [WARNING]: Seems like the world `lab` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- lab: NETHER`
+2024-07-11 21:02:39 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:03:34 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:04:29 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:05:24 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:06:18 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:07:14 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:08:28 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)
+2024-07-11 21:09:24 [INFO]: Max attempts to create a Queue reached for default_pizdamiregor (amount: 0)

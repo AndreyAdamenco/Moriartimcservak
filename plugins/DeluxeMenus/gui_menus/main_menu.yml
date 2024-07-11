@@ -1,0 +1,86 @@
+#===========================================================
+#
+#
+#  Не забудьте подключить это меню
+#
+#  Для этого, вставьте этот кусок конфига в config.yml:
+#  main_menu:
+#    file: main_menu.yml
+#
+#  Для работы плейсхолдера %player_name% установите
+#  необходимое расширение плагина PlaceholderAPI:
+#  /papi ecloud download Player
+#  /papi reload
+#
+#
+#===========================================================
+#  // Общие настройки меню
+#===========================================================
+menu_title: '&8            BedWars Menu'
+open_command: menu
+register_command: true
+size: 54
+#===========================================================
+#  // Требования для открытия меню (пермишен - main.menu)
+#===========================================================
+open_requirement:
+  requirements:
+    permission:
+      type: has permission
+      permission: main.menu
+      deny_commands:
+        - "[message] &cУ вас нет доступа к этому меню!"
+#===========================================================
+#  // Иконки меню
+#===========================================================
+items:
+    'blocks':
+      display_name: "&aBlocks"
+      lore:
+        - "&7Click to open"
+      material: BRICK
+      slot: 10
+      left_click_commands:
+        - "[open] bedwars_blocks"
+    'weapons':
+      display_name: "&aWeapons"
+      lore:
+        - "&7Click to open"
+      material: IRON_SWORD
+      slot: 12
+      left_click_commands:
+        - "[open] bedwars_weapons"
+    'armor':
+      display_name: "&aArmor"
+      lore:
+        - "&7Click to open"
+      material: IRON_CHESTPLATE
+      slot: 14
+      left_click_commands:
+        - "[open] bedwars_armor"
+     'tools':
+      display_name: "&aTools"
+      lore:
+        - "&7Click to open"
+      material: DIAMOND_PICKAXE
+      slot: 16
+      left_click_commands:
+        - "[open] bedwars_tools"
+    'potions':
+      display_name: "&aPotions"
+      lore:
+        - "&7Click to open"
+      material: POTION
+      slot: 28
+      left_click_commands:
+        - "[open] bedwars_potions"
+    'utilities':
+      display_name: "&aUtilities"
+      lore:
+        - "&7Click to open"
+      material: TNT
+      slot: 30
+      left_click_commands:
+        - "[open] bedwars_utilities"
+
+  
